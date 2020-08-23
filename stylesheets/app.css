@@ -4977,12 +4977,12 @@ th.hide-for-touch {
 
   .orbit-next span {
     margin-left: -16px !important;
-    @include svg-image('https://greentree-consulting.github.io/lifechurch-site/images/icons/orbit-next');
+    @include svg-image('/images/icons/orbit-next');
   }
 
   .orbit-prev span {
     margin-left: 16px !important;
-    @include svg-image('https://greentree-consulting.github.io/lifechurch-site/images/icons/orbit-prev');
+    @include svg-image('/images/icons/orbit-prev');
   }
 
   .orbit-bullets li {
@@ -5797,15 +5797,15 @@ html {
 }
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-black-black.svg?1396972012');
+  background-image: url('/images/branding/logo-black-black.svg?1396972012');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-black-black.png?1396972012');
+  background-image: url('/images/branding/logo-black-black.png?1396972012');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-black-black.png?1396972012');
+  background-image: url('/images/branding/logo-black-black.png?1396972012');
 }
 @media only screen and (max-width: 40em) {
   /* line 4, ../scss/design/_header.scss */
@@ -5824,42 +5824,42 @@ html {
 
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .header-light .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-white-white.svg?1396972012');
+  background-image: url('/images/branding/logo-white-white.svg?1396972012');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .header-light .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-white-white.png?1396972012');
+  background-image: url('/images/branding/logo-white-white.png?1396972012');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .header-light .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-white-white.png?1396972012');
+  background-image: url('/images/branding/logo-white-white.png?1396972012');
 }
 
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .header-red .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-black.svg?1396972012');
+  background-image: url('/images/branding/logo-red-black.svg?1396972012');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .header-red .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-black.png?1396972012');
+  background-image: url('/images/branding/logo-red-black.png?1396972012');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .header-red .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-black.png?1396972012');
+  background-image: url('/images/branding/logo-red-black.png?1396972012');
 }
 
 @media only screen and (max-width: 40em) {
   /* line 5, ../scss/settings/_svgpng.scss */
   .svg .home .logo {
-    background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-white.svg?1396972012');
+    background-image: url('/images/branding/logo-red-white.svg?1396972012');
   }
   /* line 6, ../scss/settings/_svgpng.scss */
   .no-svg .home .logo {
-    background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-white.png?1396972012');
+    background-image: url('/images/branding/logo-red-white.png?1396972012');
   }
   /* line 7, ../scss/settings/_svgpng.scss */
   .no-js .home .logo {
-    background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-white.png?1396972012');
+    background-image: url('/images/branding/logo-red-white.png?1396972012');
   }
 }
 
@@ -6812,7 +6812,7 @@ input.gsc-search-button:hover {
     background-color: #000;
     background-position: center bottom;
     background-repeat: no-repeat;
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-bg.jpg");
+    background-image: url("/images/home/home-bg.jpg");
     background-size: 1500px 931px;
     height: 700px;
   }
@@ -6842,21 +6842,21 @@ input.gsc-search-button:hover {
   }
   /* line 5, ../scss/settings/_svgpng.scss */
   .svg .home .section-first.section-home h1, .svg .home .section-first.section-home .h1 {
-    background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/2014-the-counselor/the-counselor-title.svg?1394555407');
+    background-image: url('/images/watch/2014-the-counselor/the-counselor-title.svg?1394555407');
   }
   /* line 6, ../scss/settings/_svgpng.scss */
   .no-svg .home .section-first.section-home h1, .no-svg .home .section-first.section-home .h1 {
-    background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/2014-the-counselor/the-counselor-title.png?1394555407');
+    background-image: url('/images/watch/2014-the-counselor/the-counselor-title.png?1394555407');
   }
   /* line 7, ../scss/settings/_svgpng.scss */
   .no-js .home .section-first.section-home h1, .no-js .home .section-first.section-home .h1 {
-    background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/2014-the-counselor/the-counselor-title.png?1394555407');
+    background-image: url('/images/watch/2014-the-counselor/the-counselor-title.png?1394555407');
   }
 }
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 42, ../scss/pages/_home.scss */
   .home .section-first.section-home {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-bg@2x.jpg");
+    background-image: url("/images/home/home-bg@2x.jpg");
   }
 }
 @media only screen and (min-width: 700px) and (min-height: 600px) {
@@ -6899,7 +6899,7 @@ input.gsc-search-button:hover {
 /* line 121, ../scss/pages/_home.scss */
 .home .next-week,
 .home-2 .next-week {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/next-week.jpg");
+  background-image: url("/images/home/next-week.jpg");
   background-size: 1500px 225px;
   background-position: center top;
   background-repeat: no-repeat;
@@ -6911,14 +6911,14 @@ input.gsc-search-button:hover {
   /* line 121, ../scss/pages/_home.scss */
   .home .next-week,
   .home-2 .next-week {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/next-week@2x.jpg");
+    background-image: url("/images/home/next-week@2x.jpg");
   }
 }
 
 @media only screen and (max-width: 40em) {
   /* line 138, ../scss/pages/_home.scss */
   .more-watch-small {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-bg-small.jpg");
+    background-image: url("/images/home/home-bg-small.jpg");
     background-color: #000;
     background-size: auto 100%;
     background-repeat: no-repeat;
@@ -6927,7 +6927,7 @@ input.gsc-search-button:hover {
   }
   /* line 146, ../scss/pages/_home.scss */
   .more-watch-small :hover {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-bg-small.jpg");
+    background-image: url("/images/home/home-bg-small.jpg");
   }
   /* line 150, ../scss/pages/_home.scss */
   .more-watch-small p, .more-watch-small ul li, ul .more-watch-small li {
@@ -6937,13 +6937,13 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 138, ../scss/pages/_home.scss */
   .more-watch-small {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-bg-small@2x.jpg");
+    background-image: url("/images/home/home-bg-small@2x.jpg");
   }
 }
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 146, ../scss/pages/_home.scss */
   .more-watch-small :hover {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-bg-small@2x.jpg");
+    background-image: url("/images/home/home-bg-small@2x.jpg");
   }
 }
 /* line 161, ../scss/pages/_home.scss */
@@ -6953,7 +6953,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) {
   /* line 166, ../scss/pages/_home.scss */
   .home-2 h1, .home-2 .h1 {
-    background: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-2/series-art.png") no-repeat;
+    background: url("/images/home/home-2/series-art.png") no-repeat;
     background-size: contain;
     width: 378px;
     height: 212px;
@@ -6962,7 +6962,7 @@ input.gsc-search-button:hover {
   }
   /* line 175, ../scss/pages/_home.scss */
   .home-2 .series-art {
-    background: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-2/guy.png") no-repeat;
+    background: url("/images/home/home-2/guy.png") no-repeat;
     background-size: 98px 213px;
     height: 213px;
     width: 98px;
@@ -6983,7 +6983,7 @@ input.gsc-search-button:hover {
   }
   /* line 196, ../scss/pages/_home.scss */
   .home-2 .section-home {
-    background: url("https://greentree-consulting.github.io/lifechurch-site/images/home/home-2/series-bg.jpg") center 85px no-repeat;
+    background: url("/images/home/home-2/series-bg.jpg") center 85px no-repeat;
     background-size: 1309px 588px;
     padding-bottom: 90px;
   }
@@ -7002,7 +7002,7 @@ input.gsc-search-button:hover {
   top: -33px !important;
   padding-top: 35px;
   margin-bottom: -40px;
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-live.jpg");
+  background-image: url("/images/watch/watch-live.jpg");
   background-color: #000;
   background-repeat: no-repeat;
   background-size: 1500px 496px;
@@ -7011,14 +7011,14 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 1, ../scss/pages/_watch.scss */
   .page-watch .section-watch-live {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-live@2x.jpg");
+    background-image: url("/images/watch/watch-live@2x.jpg");
   }
 }
 @media only screen and (max-width: 40em) {
   /* line 1, ../scss/pages/_watch.scss */
   .page-watch .section-watch-live {
     height: 300px;
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-live-small.jpg");
+    background-image: url("/images/watch/watch-live-small.jpg");
     background-color: #000;
     background-size: 500px 300px;
     background-repeat: no-repeat;
@@ -7030,7 +7030,7 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 1, ../scss/pages/_watch.scss */
   .page-watch .section-watch-live {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-live-small@2x.jpg");
+    background-image: url("/images/watch/watch-live-small@2x.jpg");
   }
 }
 
@@ -7109,41 +7109,41 @@ input.gsc-search-button:hover {
 
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .watch-podcast:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-podcast.svg?1394555407');
+  background-image: url('/images/watch/watch-podcast.svg?1394555407');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .watch-podcast:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-podcast.png?1394555407');
+  background-image: url('/images/watch/watch-podcast.png?1394555407');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .watch-podcast:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-podcast.png?1394555407');
+  background-image: url('/images/watch/watch-podcast.png?1394555407');
 }
 
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .watch-talkitover:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-talkitover.svg?1396644886');
+  background-image: url('/images/watch/watch-talkitover.svg?1396644886');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .watch-talkitover:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-talkitover.png?1396644886');
+  background-image: url('/images/watch/watch-talkitover.png?1396644886');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .watch-talkitover:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-talkitover.png?1396644886');
+  background-image: url('/images/watch/watch-talkitover.png?1396644886');
 }
 
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .watch-open:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-open.svg?1394555407');
+  background-image: url('/images/watch/watch-open.svg?1394555407');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .watch-open:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-open.png?1394555407');
+  background-image: url('/images/watch/watch-open.png?1394555407');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .watch-open:before {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/watch/watch-open.png?1394555407');
+  background-image: url('/images/watch/watch-open.png?1394555407');
 }
 
 /* line 11, ../scss/pages/_locations.scss */
@@ -8383,14 +8383,14 @@ input.gsc-search-button:hover {
 
 /* line 3, ../scss/pages/_giving.scss */
 .giving-bg {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/giving-bg.jpg");
+  background-image: url("/images/giving/giving-bg.jpg");
   background-size: cover;
   background-position: center bottom;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 3, ../scss/pages/_giving.scss */
   .giving-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/giving-bg@2x.jpg");
+    background-image: url("/images/giving/giving-bg@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8407,7 +8407,7 @@ input.gsc-search-button:hover {
 
 /* line 20, ../scss/pages/_giving.scss */
 .hphoto-giving-tithe {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/giving-bg.jpg");
+  background-image: url("/images/giving/giving-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -8415,7 +8415,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 20, ../scss/pages/_giving.scss */
   .hphoto-giving-tithe {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/giving-bg@2x.jpg");
+    background-image: url("/images/giving/giving-bg@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8427,7 +8427,7 @@ input.gsc-search-button:hover {
 
 /* line 31, ../scss/pages/_giving.scss */
 .hphoto-giving-spacesplaces {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/spaces-places.jpg");
+  background-image: url("/images/giving/spaces-places.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 100%;
@@ -8435,7 +8435,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 31, ../scss/pages/_giving.scss */
   .hphoto-giving-spacesplaces {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/spaces-places@2x.jpg");
+    background-image: url("/images/giving/spaces-places@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8447,7 +8447,7 @@ input.gsc-search-button:hover {
 
 /* line 42, ../scss/pages/_giving.scss */
 .hphoto-giving-reliefrestoration {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/relief-restoration.jpg");
+  background-image: url("/images/giving/relief-restoration.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 100%;
@@ -8455,7 +8455,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 42, ../scss/pages/_giving.scss */
   .hphoto-giving-reliefrestoration {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/relief-restoration@2x.jpg");
+    background-image: url("/images/giving/relief-restoration@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8467,7 +8467,7 @@ input.gsc-search-button:hover {
 
 /* line 53, ../scss/pages/_giving.scss */
 .hphoto-giving-digitalmissions {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/digital-missions.jpg");
+  background-image: url("/images/giving/digital-missions.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 100%;
@@ -8475,7 +8475,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 53, ../scss/pages/_giving.scss */
   .hphoto-giving-digitalmissions {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/digital-missions@2x.jpg");
+    background-image: url("/images/giving/digital-missions@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8581,7 +8581,7 @@ input.gsc-search-button:hover {
 
 /* line 151, ../scss/pages/_giving.scss */
 .section-restore-1 {
-  background: black url("https://greentree-consulting.github.io/lifechurch-site/images/giving/restore-bg-1.jpg") center bottom no-repeat;
+  background: black url("/images/giving/restore-bg-1.jpg") center bottom no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -8607,14 +8607,14 @@ input.gsc-search-button:hover {
 
 /* line 171, ../scss/pages/_giving.scss */
 .hphoto-restore {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/restore-bg-2.jpg");
+  background-image: url("/images/giving/restore-bg-2.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 171, ../scss/pages/_giving.scss */
   .hphoto-restore {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/giving/restore-bg-2@2x.jpg");
+    background-image: url("/images/giving/restore-bg-2@2x.jpg");
   }
 }
 
@@ -8633,7 +8633,7 @@ input.gsc-search-button:hover {
 /* line 190, ../scss/pages/_giving.scss */
 .digital-missions .digital-missions-bg {
   height: 600px;
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/digital-missions/dm-bg.jpg");
+  background-image: url("/images/digital-missions/dm-bg.jpg");
   background-color: #eaeae8;
   background-repeat: no-repeat;
   background-size: 100% auto;
@@ -8642,7 +8642,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 190, ../scss/pages/_giving.scss */
   .digital-missions .digital-missions-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/digital-missions/dm-bg@2x.jpg");
+    background-image: url("/images/digital-missions/dm-bg@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8672,7 +8672,7 @@ input.gsc-search-button:hover {
 
 /* line 226, ../scss/pages/_giving.scss */
 .hphoto-lifemissions-2 {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifemissions/lm-bg-2.jpg");
+  background-image: url("/images/lifemissions/lm-bg-2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 100%;
@@ -8680,7 +8680,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 226, ../scss/pages/_giving.scss */
   .hphoto-lifemissions-2 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifemissions/lm-bg-2@2x.jpg");
+    background-image: url("/images/lifemissions/lm-bg-2@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -8825,45 +8825,45 @@ input.gsc-search-button:hover {
 
 /* line 124, ../scss/pages/_lifegroups.scss */
 .lifegroups-tile-1 {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-1-tile.jpg");
+  background-image: url("/images/lifegroups/lifegroups-1-tile.jpg");
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 124, ../scss/pages/_lifegroups.scss */
   .lifegroups-tile-1 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-1-tile@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-1-tile@2x.jpg");
   }
 }
 
 /* line 129, ../scss/pages/_lifegroups.scss */
 .lifegroups-tile-2 {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-2-tile.jpg");
+  background-image: url("/images/lifegroups/lifegroups-2-tile.jpg");
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 129, ../scss/pages/_lifegroups.scss */
   .lifegroups-tile-2 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-2-tile@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-2-tile@2x.jpg");
   }
 }
 
 /* line 134, ../scss/pages/_lifegroups.scss */
 .lifegroups-tile-3 {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-3-tile.jpg");
+  background-image: url("/images/lifegroups/lifegroups-3-tile.jpg");
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 134, ../scss/pages/_lifegroups.scss */
   .lifegroups-tile-3 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-3-tile@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-3-tile@2x.jpg");
   }
 }
 
 /* line 139, ../scss/pages/_lifegroups.scss */
 .lifegroups-tile-4 {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-4-tile.jpg");
+  background-image: url("/images/lifegroups/lifegroups-4-tile.jpg");
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 139, ../scss/pages/_lifegroups.scss */
   .lifegroups-tile-4 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-4-tile@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-4-tile@2x.jpg");
   }
 }
 
@@ -8892,7 +8892,7 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) {
   /* line 157, ../scss/pages/_lifegroups.scss */
   .lifegroups-1 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-1-thin.jpg");
+    background-image: url("/images/lifegroups/lifegroups-1-thin.jpg");
     background-color: #f1eae4;
     background-size: 100% auto;
     background-position: left top;
@@ -8901,13 +8901,13 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 157, ../scss/pages/_lifegroups.scss */
   .lifegroups-1 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-1-thin@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-1-thin@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
   /* line 157, ../scss/pages/_lifegroups.scss */
   .lifegroups-1 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-1.jpg");
+    background-image: url("/images/lifegroups/lifegroups-1.jpg");
     background-size: 1700px auto;
     background-position: -320px top;
   }
@@ -8915,7 +8915,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 157, ../scss/pages/_lifegroups.scss */
   .lifegroups-1 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-1@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-1@2x.jpg");
   }
 }
 @media only screen and (min-width: 64.063em) {
@@ -8934,7 +8934,7 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) {
   /* line 181, ../scss/pages/_lifegroups.scss */
   .lifegroups-2 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-2-thin.jpg");
+    background-image: url("/images/lifegroups/lifegroups-2-thin.jpg");
     background-size: 100% auto;
     background-position: left top;
     background-color: #e9e9dd;
@@ -8943,13 +8943,13 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 181, ../scss/pages/_lifegroups.scss */
   .lifegroups-2 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-2-thin@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-2-thin@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
   /* line 181, ../scss/pages/_lifegroups.scss */
   .lifegroups-2 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-2.jpg");
+    background-image: url("/images/lifegroups/lifegroups-2.jpg");
     background-size: 1700px auto;
     background-position: -320px top;
   }
@@ -8957,7 +8957,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 181, ../scss/pages/_lifegroups.scss */
   .lifegroups-2 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-2@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-2@2x.jpg");
   }
 }
 @media only screen and (min-width: 64.063em) {
@@ -8976,7 +8976,7 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) {
   /* line 205, ../scss/pages/_lifegroups.scss */
   .lifegroups-3 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-3-thin.jpg");
+    background-image: url("/images/lifegroups/lifegroups-3-thin.jpg");
     background-size: 100% auto;
     background-position: left top;
     background-color: #000;
@@ -8985,13 +8985,13 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 205, ../scss/pages/_lifegroups.scss */
   .lifegroups-3 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-3-thin@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-3-thin@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
   /* line 205, ../scss/pages/_lifegroups.scss */
   .lifegroups-3 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-3.jpg");
+    background-image: url("/images/lifegroups/lifegroups-3.jpg");
     background-size: 1700px auto;
     background-position: -320px top;
   }
@@ -8999,7 +8999,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 205, ../scss/pages/_lifegroups.scss */
   .lifegroups-3 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-3@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-3@2x.jpg");
   }
 }
 @media only screen and (min-width: 64.063em) {
@@ -9018,7 +9018,7 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) {
   /* line 229, ../scss/pages/_lifegroups.scss */
   .lifegroups-4 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-4-thin.jpg");
+    background-image: url("/images/lifegroups/lifegroups-4-thin.jpg");
     background-size: 100% auto;
     background-position: left top;
     background-color: #e9e9dd;
@@ -9027,13 +9027,13 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
   /* line 229, ../scss/pages/_lifegroups.scss */
   .lifegroups-4 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-4-thin@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-4-thin@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
   /* line 229, ../scss/pages/_lifegroups.scss */
   .lifegroups-4 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-4.jpg");
+    background-image: url("/images/lifegroups/lifegroups-4.jpg");
     background-size: 1700px auto;
     background-position: -320px top;
   }
@@ -9041,7 +9041,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 229, ../scss/pages/_lifegroups.scss */
   .lifegroups-4 {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/lifegroups/lifegroups-4@2x.jpg");
+    background-image: url("/images/lifegroups/lifegroups-4@2x.jpg");
   }
 }
 @media only screen and (min-width: 64.063em) {
@@ -9069,7 +9069,7 @@ input.gsc-search-button:hover {
 }
 /* line 18, ../scss/pages/_kids.scss */
 .kids .kids-bg {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/kids-bg-small.jpg");
+  background-image: url("/images/kids/kids-bg-small.jpg");
   background-size: 472px 408px;
   background-position: center top;
   background-repeat: no-repeat;
@@ -9078,13 +9078,13 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 18, ../scss/pages/_kids.scss */
   .kids .kids-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/kids-bg-small@2x.jpg");
+    background-image: url("/images/kids/kids-bg-small@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
   /* line 18, ../scss/pages/_kids.scss */
   .kids .kids-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/kids-bg-large.jpg");
+    background-image: url("/images/kids/kids-bg-large.jpg");
     background-size: 1500px 876px;
   }
   /* line 29, ../scss/pages/_kids.scss */
@@ -9095,7 +9095,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 18, ../scss/pages/_kids.scss */
   .kids .kids-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/kids-bg-large@2x.jpg");
+    background-image: url("/images/kids/kids-bg-large@2x.jpg");
   }
 }
 @media only screen and (max-width: 40em) {
@@ -9106,7 +9106,7 @@ input.gsc-search-button:hover {
 }
 /* line 39, ../scss/pages/_kids.scss */
 .kids #switch {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/switch-bg-small.jpg");
+  background-image: url("/images/kids/switch-bg-small.jpg");
   background-color: #191913;
   background-size: 506px 403px;
   background-repeat: no-repeat;
@@ -9116,20 +9116,20 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 39, ../scss/pages/_kids.scss */
   .kids #switch {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/switch-bg-small@2x.jpg");
+    background-image: url("/images/kids/switch-bg-small@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
   /* line 39, ../scss/pages/_kids.scss */
   .kids #switch {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/switch-bg.jpg");
+    background-image: url("/images/kids/switch-bg.jpg");
     background-size: 1500px 403px;
   }
 }
 @media only screen and (min-width: 40.063em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 40.063em) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 40.063em) and (min-device-pixel-ratio: 1.5) {
   /* line 39, ../scss/pages/_kids.scss */
   .kids #switch {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/kids/switch-bg@2x.jpg");
+    background-image: url("/images/kids/switch-bg@2x.jpg");
   }
 }
 /* line 52, ../scss/pages/_kids.scss */
@@ -9140,15 +9140,15 @@ input.gsc-search-button:hover {
 
 /* line 5, ../scss/settings/_svgpng.scss */
 .svg .who-we-are .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-white.svg?1396972012');
+  background-image: url('/images/branding/logo-red-white.svg?1396972012');
 }
 /* line 6, ../scss/settings/_svgpng.scss */
 .no-svg .who-we-are .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-white.png?1396972012');
+  background-image: url('/images/branding/logo-red-white.png?1396972012');
 }
 /* line 7, ../scss/settings/_svgpng.scss */
 .no-js .who-we-are .logo {
-  background-image: url('https://greentree-consulting.github.io/lifechurch-site/images/branding/logo-red-white.png?1396972012');
+  background-image: url('/images/branding/logo-red-white.png?1396972012');
 }
 @media only screen and (max-width: 40em) {
   /* line 7, ../scss/pages/_about.scss */
@@ -9163,7 +9163,7 @@ input.gsc-search-button:hover {
 }
 /* line 17, ../scss/pages/_about.scss */
 .who-we-are .who-we-are-bg {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/about/whoweare-bg.jpg");
+  background-image: url("/images/about/whoweare-bg.jpg");
   background-size: cover;
   background-position: -340px top;
   background-repeat: no-repeat;
@@ -9171,7 +9171,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 17, ../scss/pages/_about.scss */
   .who-we-are .who-we-are-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/about/whoweare-bg@2x.jpg");
+    background-image: url("/images/about/whoweare-bg@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
@@ -9198,7 +9198,7 @@ input.gsc-search-button:hover {
 }
 /* line 44, ../scss/pages/_about.scss */
 .beliefs .about-bible {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/about/about-bible.png");
+  background-image: url("/images/about/about-bible.png");
   background-size: 528px 219px;
   background-repeat: no-repeat;
   width: 200px;
@@ -9210,7 +9210,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 44, ../scss/pages/_about.scss */
   .beliefs .about-bible {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/about/about-bible@2x.png");
+    background-image: url("/images/about/about-bible@2x.png");
   }
 }
 @media only screen and (max-width: 40em) {
@@ -9254,7 +9254,7 @@ input.gsc-search-button:hover {
 }
 /* line 89, ../scss/pages/_about.scss */
 .what-to-expect .about-coffee {
-  background: url("https://greentree-consulting.github.io/lifechurch-site/images/about/about-coffee.png") no-repeat;
+  background: url("/images/about/about-coffee.png") no-repeat;
   width: 200px;
   height: 200px;
   position: absolute;
@@ -9292,7 +9292,7 @@ input.gsc-search-button:hover {
 @media only screen and (min-width: 40.063em) {
   /* line 120, ../scss/pages/_about.scss */
   .jobs .section-jobs-top {
-    background: url("https://greentree-consulting.github.io/lifechurch-site/images/about/about-jobs.jpg") bottom center no-repeat;
+    background: url("/images/about/about-jobs.jpg") bottom center no-repeat;
     background-size: 1095px auto;
     height: 570px;
     border-bottom: 1px solid #ccc;
@@ -9334,7 +9334,7 @@ input.gsc-search-button:hover {
 
 /* line 3, ../scss/pages/_chazown.scss */
 .chazown .chazown-bg {
-  background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/chazown/chazown-bg.jpg");
+  background-image: url("/images/chazown/chazown-bg.jpg");
   background-repeat: repeat-x;
   background-position: center bottom;
   border-bottom: 1px solid #eee;
@@ -9345,7 +9345,7 @@ input.gsc-search-button:hover {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 3, ../scss/pages/_chazown.scss */
   .chazown .chazown-bg {
-    background-image: url("https://greentree-consulting.github.io/lifechurch-site/images/chazown/chazown-bg@2x.jpg");
+    background-image: url("/images/chazown/chazown-bg@2x.jpg");
   }
 }
 @media only screen and (min-width: 40.063em) {
