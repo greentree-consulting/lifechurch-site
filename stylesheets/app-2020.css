@@ -6211,63 +6211,63 @@ http://flickity.metafizzy.co
 
 @font-face {
   font-family: 'proxima_novathin';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-thin-webfont-011350d8dde2868f4a780f6df496ab0ad324f83cd18630651839ce366f9e3272.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-thin-webfont-011350d8dde2868f4a780f6df496ab0ad324f83cd18630651839ce366f9e3272.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-thin-webfont-c691d0b47d81dca49135f522f3bb6c7eb54ecbf61ce2c1d5f3749eb2893d0680.woff2) format("woff2"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-thin-webfont-bf93305858f82276482b0834e539c01d71e447400803f64d79697bd6d34071fd.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-thin-webfont-3bb50a984f8844bef5e634cf027ac23ed2f31cc2ddbd3ffb73c0162b6c2085c2.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-thin-webfont-7010656609ace215477e98cd07b85663c10c94f1ac52043cb412eaaeb53e1864.svg#proxima_novathin) format("svg");
+  src: url(/assets/proximanova-thin-webfont-011350d8dde2868f4a780f6df496ab0ad324f83cd18630651839ce366f9e3272.eot);
+  src: url(/assets/proximanova-thin-webfont-011350d8dde2868f4a780f6df496ab0ad324f83cd18630651839ce366f9e3272.eot?#iefix) format("embedded-opentype"), url(/assets/proximanova-thin-webfont-c691d0b47d81dca49135f522f3bb6c7eb54ecbf61ce2c1d5f3749eb2893d0680.woff2) format("woff2"), url(/assets/proximanova-thin-webfont-bf93305858f82276482b0834e539c01d71e447400803f64d79697bd6d34071fd.woff) format("woff"), url(/assets/proximanova-thin-webfont-3bb50a984f8844bef5e634cf027ac23ed2f31cc2ddbd3ffb73c0162b6c2085c2.ttf) format("truetype"), url(/assets/proximanova-thin-webfont-7010656609ace215477e98cd07b85663c10c94f1ac52043cb412eaaeb53e1864.svg#proxima_novathin) format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'proxima_novalight';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-light-webfont-45e7348f25aeff53726bbcc0d11ca6ea4871b2ee5424f23ca527e0fe0d0123bc.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-light-webfont-45e7348f25aeff53726bbcc0d11ca6ea4871b2ee5424f23ca527e0fe0d0123bc.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-light-webfont-9bb769c5a9f25f8d52e9ba56881641ec0ca019da478cf2910457fdbea01fcd14.woff2) format("woff2"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-light-webfont-fbc450269f8fc4f5e46b3b07be96dce287b5f1a57aaa4bcef0e1ad724cd925dd.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-light-webfont-e748e43dc60581fb2b12cb25e513667376532b4f79f31236886851a2b4486de7.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-light-webfont-b051894bbd063f013b18a7cc2ede22b57527f68da3e727f6c1465950f25ebfe5.svg#proxima_novalight) format("svg");
+  src: url(/assets/proximanova-light-webfont-45e7348f25aeff53726bbcc0d11ca6ea4871b2ee5424f23ca527e0fe0d0123bc.eot);
+  src: url(/assets/proximanova-light-webfont-45e7348f25aeff53726bbcc0d11ca6ea4871b2ee5424f23ca527e0fe0d0123bc.eot?#iefix) format("embedded-opentype"), url(/assets/proximanova-light-webfont-9bb769c5a9f25f8d52e9ba56881641ec0ca019da478cf2910457fdbea01fcd14.woff2) format("woff2"), url(/assets/proximanova-light-webfont-fbc450269f8fc4f5e46b3b07be96dce287b5f1a57aaa4bcef0e1ad724cd925dd.woff) format("woff"), url(/assets/proximanova-light-webfont-e748e43dc60581fb2b12cb25e513667376532b4f79f31236886851a2b4486de7.ttf) format("truetype"), url(/assets/proximanova-light-webfont-b051894bbd063f013b18a7cc2ede22b57527f68da3e727f6c1465950f25ebfe5.svg#proxima_novalight) format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'proxima_novaregular';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-regular-webfont-b49c8859da08f6ed72af06cc5dc793b5091f0b051e3e5e088eb060f38d884ab3.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-regular-webfont-b49c8859da08f6ed72af06cc5dc793b5091f0b051e3e5e088eb060f38d884ab3.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-regular-webfont-9411ab12b8dd65ce03ea7e1c62557fc2d1eaa1d5d1493609a14a2e29b8342918.woff2) format("woff2"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-regular-webfont-37bf48d8a949da502b85ad6838b5d353ce0c7186f45ca73f8778c5da26fa86b8.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-regular-webfont-c90734e8c976644b36a95d6aeb498c46339a7fb8c3ee695a269369abe1ab3810.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-regular-webfont-e715afe1aea215a079a5a4af4f2294b2d957530e76a84d4c71f51d2790b5de5d.svg#proxima_novaregular) format("svg");
+  src: url(/assets/proximanova-regular-webfont-b49c8859da08f6ed72af06cc5dc793b5091f0b051e3e5e088eb060f38d884ab3.eot);
+  src: url(/assets/proximanova-regular-webfont-b49c8859da08f6ed72af06cc5dc793b5091f0b051e3e5e088eb060f38d884ab3.eot?#iefix) format("embedded-opentype"), url(/assets/proximanova-regular-webfont-9411ab12b8dd65ce03ea7e1c62557fc2d1eaa1d5d1493609a14a2e29b8342918.woff2) format("woff2"), url(/assets/proximanova-regular-webfont-37bf48d8a949da502b85ad6838b5d353ce0c7186f45ca73f8778c5da26fa86b8.woff) format("woff"), url(/assets/proximanova-regular-webfont-c90734e8c976644b36a95d6aeb498c46339a7fb8c3ee695a269369abe1ab3810.ttf) format("truetype"), url(/assets/proximanova-regular-webfont-e715afe1aea215a079a5a4af4f2294b2d957530e76a84d4c71f51d2790b5de5d.svg#proxima_novaregular) format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'proxima_novasemibold';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-semibold-webfont-58dd30e4852a130e0ad063349de3384feead2807972daef1c3aa0d37e1830c6d.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-semibold-webfont-58dd30e4852a130e0ad063349de3384feead2807972daef1c3aa0d37e1830c6d.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-semibold-webfont-67b73e30fc4ae2cdb5ee2e87bd9928b747ed8c066f0d56cc38ae1612a61915a7.woff2) format("woff2"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-semibold-webfont-08ddbf2f47f6175c425a91d290502371435cf2232ebd92d6eac0e2a742ae043d.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-semibold-webfont-3df8ae80d147632a0511f0f66378caa5397f647c4f866c40ef6a7a8ef81a011d.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-semibold-webfont-896ca085049aa7e3b3cf58a14693f0b00bbfd60a16982d32d557bfbe248a988a.svg#proxima_novablack) format("svg");
+  src: url(/assets/proximanova-semibold-webfont-58dd30e4852a130e0ad063349de3384feead2807972daef1c3aa0d37e1830c6d.eot);
+  src: url(/assets/proximanova-semibold-webfont-58dd30e4852a130e0ad063349de3384feead2807972daef1c3aa0d37e1830c6d.eot?#iefix) format("embedded-opentype"), url(/assets/proximanova-semibold-webfont-67b73e30fc4ae2cdb5ee2e87bd9928b747ed8c066f0d56cc38ae1612a61915a7.woff2) format("woff2"), url(/assets/proximanova-semibold-webfont-08ddbf2f47f6175c425a91d290502371435cf2232ebd92d6eac0e2a742ae043d.woff) format("woff"), url(/assets/proximanova-semibold-webfont-3df8ae80d147632a0511f0f66378caa5397f647c4f866c40ef6a7a8ef81a011d.ttf) format("truetype"), url(/assets/proximanova-semibold-webfont-896ca085049aa7e3b3cf58a14693f0b00bbfd60a16982d32d557bfbe248a988a.svg#proxima_novablack) format("svg");
   font-weight: 600;
   font-style: normal; }
 @font-face {
   font-family: 'proxima_novabold';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-bold-webfont-ac580e796643cd3ba7e1bd2351bb3f89b61f5525fd1d05ed8e29116e2e5eb2d9.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-bold-webfont-ac580e796643cd3ba7e1bd2351bb3f89b61f5525fd1d05ed8e29116e2e5eb2d9.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-bold-webfont-4fd8d089c70d641815be47399cba8cd300e848be040b0f5f05c988d8242256e4.woff2) format("woff2"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-bold-webfont-63ad50b9afa7db0ae43cfee708dd790948da71ae7f2fa263cfd5500679d37bef.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-bold-webfont-beda1e77506b36c08d2e31a5aabcd27a3929b0f02c8293d5d8c878fafd2f2ef2.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-bold-webfont-ac30738ee2cce3351910d0278265e9d169efdda7c4cafc61ad171a1149e8d659.svg#proxima_novabold) format("svg");
+  src: url(/assets/proximanova-bold-webfont-ac580e796643cd3ba7e1bd2351bb3f89b61f5525fd1d05ed8e29116e2e5eb2d9.eot);
+  src: url(/assets/proximanova-bold-webfont-ac580e796643cd3ba7e1bd2351bb3f89b61f5525fd1d05ed8e29116e2e5eb2d9.eot?#iefix) format("embedded-opentype"), url(/assets/proximanova-bold-webfont-4fd8d089c70d641815be47399cba8cd300e848be040b0f5f05c988d8242256e4.woff2) format("woff2"), url(/assets/proximanova-bold-webfont-63ad50b9afa7db0ae43cfee708dd790948da71ae7f2fa263cfd5500679d37bef.woff) format("woff"), url(/assets/proximanova-bold-webfont-beda1e77506b36c08d2e31a5aabcd27a3929b0f02c8293d5d8c878fafd2f2ef2.ttf) format("truetype"), url(/assets/proximanova-bold-webfont-ac30738ee2cce3351910d0278265e9d169efdda7c4cafc61ad171a1149e8d659.svg#proxima_novabold) format("svg");
   font-weight: bold;
   font-style: normal; }
 @font-face {
   font-family: 'proxima_novablack';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-black-webfont-96e96e57b39c35ddf3b966067896d8872eccf00137005e7062f8272dfcdfc032.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-black-webfont-96e96e57b39c35ddf3b966067896d8872eccf00137005e7062f8272dfcdfc032.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-black-webfont-0667a6299a438db35d69514435e306bbeb9f81a2d535455d67e9af871c7227ac.woff2) format("woff2"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-black-webfont-c8084ffb83dfc058cda0c1c0cfe09731d9439e132a6aff993b0ad3c487008fbc.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-black-webfont-78de5b4cd61983ec8370b7a2714d010b902731aa50254bcce1c241f3abcaaa3d.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/proximanova-black-webfont-4b88fd14968f1a10812c871b3c06311208941b9c887b9f084803676b0ad806e4.svg#proxima_novablack) format("svg");
+  src: url(/assets/proximanova-black-webfont-96e96e57b39c35ddf3b966067896d8872eccf00137005e7062f8272dfcdfc032.eot);
+  src: url(/assets/proximanova-black-webfont-96e96e57b39c35ddf3b966067896d8872eccf00137005e7062f8272dfcdfc032.eot?#iefix) format("embedded-opentype"), url(/assets/proximanova-black-webfont-0667a6299a438db35d69514435e306bbeb9f81a2d535455d67e9af871c7227ac.woff2) format("woff2"), url(/assets/proximanova-black-webfont-c8084ffb83dfc058cda0c1c0cfe09731d9439e132a6aff993b0ad3c487008fbc.woff) format("woff"), url(/assets/proximanova-black-webfont-78de5b4cd61983ec8370b7a2714d010b902731aa50254bcce1c241f3abcaaa3d.ttf) format("truetype"), url(/assets/proximanova-black-webfont-4b88fd14968f1a10812c871b3c06311208941b9c887b9f084803676b0ad806e4.svg#proxima_novablack) format("svg");
   font-weight: 900;
   font-style: normal; }
 @font-face {
   font-family: 'helvetica_neue';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/HelveticaNeue-bfc1db528ebf4475cc1771cd2b36c0510151bafce736b72bbb5618b18d53f95f.ttf) format("truetype");
+  src: url(/assets/HelveticaNeue-bfc1db528ebf4475cc1771cd2b36c0510151bafce736b72bbb5618b18d53f95f.ttf) format("truetype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'helvetica_neue_bold';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/HelveticaNeue-Bold-552a1038aa45953c5fa828f74595f37744ffbc38629c51f7d987596ca1f65f55.ttf) format("truetype");
+  src: url(/assets/HelveticaNeue-Bold-552a1038aa45953c5fa828f74595f37744ffbc38629c51f7d987596ca1f65f55.ttf) format("truetype");
   font-weight: bold;
   font-style: normal; }
 @font-face {
   font-family: 'helvetica_neue_light';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/HelveticaNeue-Light-9c10e41923c263bae40843fbdf2f77620a7462787bfe572d096ded1d2ec932a3.ttf) format("truetype");
+  src: url(/assets/HelveticaNeue-Light-9c10e41923c263bae40843fbdf2f77620a7462787bfe572d096ded1d2ec932a3.ttf) format("truetype");
   font-weight: light;
   font-style: normal; }
 @font-face {
   font-family: 'helvetica_neue_semibold';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/HelveticaNeue-Medium-2695cad8360d23968ffdd7450e1ffc2b8b825b88c367de0b7f25bd69482a84ab.ttf) format("truetype");
+  src: url(/assets/HelveticaNeue-Medium-2695cad8360d23968ffdd7450e1ffc2b8b825b88c367de0b7f25bd69482a84ab.ttf) format("truetype");
   font-weight: 600;
   font-style: normal; }
 @font-face {
   font-family: 'helvetica_neue_thin';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/HelveticaNeue-Thin-f8769d35f8d78555b2124061c603c94b0f08c6adea617803335a5a7faa41685b.ttf) format("truetype");
+  src: url(/assets/HelveticaNeue-Thin-f8769d35f8d78555b2124061c603c94b0f08c6adea617803335a5a7faa41685b.ttf) format("truetype");
   font-weight: normal;
   font-style: normal; }
 .hs-form-field > label {
@@ -6370,8 +6370,8 @@ th {
 
 @font-face {
   font-family: 'lctv';
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/lctv/lctv-787bfdf0e3f175697acad98d89c00bdb62339d2bf62b7ae45cafa7ec697ad2bf.eot);
-  src: url(https://greentree-consulting.github.io/lifechurch-site/assets/lctv/lctv-787bfdf0e3f175697acad98d89c00bdb62339d2bf62b7ae45cafa7ec697ad2bf.eot?#iefix) format("embedded-opentype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/lctv/lctv-8aae211fe51a9496e20d1d84bad6a0f7ecad763aa4fa9e6eaf4716c16c7b7f01.woff) format("woff"), url(https://greentree-consulting.github.io/lifechurch-site/assets/lctv/lctv-0d9714da3e68d588fadf821d50b31876c3f7877c9a06d1e3a5660205ae64c1c6.ttf) format("truetype"), url(https://greentree-consulting.github.io/lifechurch-site/assets/lctv/lctv-96490a369f15bca2ff0509ec72830fa77ada802716c044352637343f4e158d82.svg#lctv) format("svg");
+  src: url(/assets/lctv/lctv-787bfdf0e3f175697acad98d89c00bdb62339d2bf62b7ae45cafa7ec697ad2bf.eot);
+  src: url(/assets/lctv/lctv-787bfdf0e3f175697acad98d89c00bdb62339d2bf62b7ae45cafa7ec697ad2bf.eot?#iefix) format("embedded-opentype"), url(/assets/lctv/lctv-8aae211fe51a9496e20d1d84bad6a0f7ecad763aa4fa9e6eaf4716c16c7b7f01.woff) format("woff"), url(/assets/lctv/lctv-0d9714da3e68d588fadf821d50b31876c3f7877c9a06d1e3a5660205ae64c1c6.ttf) format("truetype"), url(/assets/lctv/lctv-96490a369f15bca2ff0509ec72830fa77ada802716c044352637343f4e158d82.svg#lctv) format("svg");
   font-weight: normal;
   font-style: normal; }
 [class^="icon-"], [class*=" icon-"] {
@@ -6457,7 +6457,7 @@ th {
 
 .icon-social-instagram {
   content: '';
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/instagram-camera-404041-e66037ecdb5b5db49e1ca010ead7e62ac983c7edf03f58f73daf57e8389d9f45.svg) no-repeat;
+  background: url(/assets/icons/instagram-camera-404041-e66037ecdb5b5db49e1ca010ead7e62ac983c7edf03f58f73daf57e8389d9f45.svg) no-repeat;
   width: 1.125rem;
   height: 1.125rem;
   background-size: 1.125rem 1.125rem; }
@@ -6496,7 +6496,7 @@ th {
   display: none; }
 
 .prayer-icon {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/prayer-icon-f0ec893d9ff656c69ca5f780b2384f5fe64f241865f3ea9bc28887900ac364f0.png);
+  background-image: url(/assets/icons/prayer-icon-f0ec893d9ff656c69ca5f780b2384f5fe64f241865f3ea9bc28887900ac364f0.png);
   background-repeat: no-repeat;
   width: 1.25rem;
   height: 1.25rem;
@@ -6590,7 +6590,7 @@ th {
   text-indent: -9999px;
   width: 1.125rem;
   height: 1.125rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/player/play-hollow-996833faea1d41fa1fab508f57814bdae82e1a638b474cb237790fcb2b697491.svg) no-repeat;
+  background: url(/assets/player/play-hollow-996833faea1d41fa1fab508f57814bdae82e1a638b474cb237790fcb2b697491.svg) no-repeat;
   background-size: 1.125rem 1.125rem; }
 
 .icon-play-full {
@@ -6602,7 +6602,7 @@ th {
     text-indent: -9999px;
     width: 3.25rem;
     height: 3.25rem;
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/white_play_icon-ccd6cf2ed0481af6bfb7cf403d20d578ea48fea35cfd30e6ec139a602b0617be.svg) no-repeat;
+    background: url(/assets/icons/white_play_icon-ccd6cf2ed0481af6bfb7cf403d20d578ea48fea35cfd30e6ec139a602b0617be.svg) no-repeat;
     background-size: 3.25rem 3.25rem; }
 
 .icon-checkmark:before {
@@ -6611,7 +6611,7 @@ th {
   text-indent: -9999px;
   width: 2rem;
   height: 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/checkmark-icon-d6a3935a031b68a2ed9db6bf7faee4e8b47fdae846760e8de87618dfa8b7f8b3.svg) no-repeat;
+  background: url(/assets/icons/checkmark-icon-d6a3935a031b68a2ed9db6bf7faee4e8b47fdae846760e8de87618dfa8b7f8b3.svg) no-repeat;
   background-size: 2rem 2rem; }
 
 .icon-arrow-rounded {
@@ -6619,22 +6619,22 @@ th {
   text-indent: -9999px;
   width: 1.125rem;
   height: 1.125rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/down-arrow-rounded-190d0424da95cd7e7c810867d6c1b4239a9045142c7e2a0b7f8c29d1bc53420f.svg) no-repeat;
+  background: url(/assets/icons/down-arrow-rounded-190d0424da95cd7e7c810867d6c1b4239a9045142c7e2a0b7f8c29d1bc53420f.svg) no-repeat;
   background-size: 1.125rem 1.125rem; }
   .icon-arrow-rounded.blue-arrow {
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/right-arrow-rounded-blue-586a444fef1336aa028ad27024a012793460a25a813593c421a86cf88a22613e.svg) no-repeat;
+    background: url(/assets/icons/right-arrow-rounded-blue-586a444fef1336aa028ad27024a012793460a25a813593c421a86cf88a22613e.svg) no-repeat;
     background-position: 0.3125rem 0.1875rem; }
     .icon-arrow-rounded.blue-arrow.arrow-down {
       -webkit-transform: rotate(90deg);
               transform: rotate(90deg); }
   .icon-arrow-rounded.white-arrow {
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/white-arrow-rounded-7ed7d9fe6dc46956bf066313d1b182cc5c4d6ee563c216a522bf4014e212bd42.svg) no-repeat;
+    background: url(/assets/icons/white-arrow-rounded-7ed7d9fe6dc46956bf066313d1b182cc5c4d6ee563c216a522bf4014e212bd42.svg) no-repeat;
     background-position: 0.3125rem 0.1875rem; }
   .icon-arrow-rounded.white-arrow-left {
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/white-arrow-rounded-left-c3040581003c1e1431776ddc21b4882b5798b9e3a10bacf6bf48915b54b5f4ff.svg) no-repeat;
+    background: url(/assets/icons/white-arrow-rounded-left-c3040581003c1e1431776ddc21b4882b5798b9e3a10bacf6bf48915b54b5f4ff.svg) no-repeat;
     background-position: 0.3125rem 0.1875rem; }
   .icon-arrow-rounded.dark-gray-arrow {
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/right-arrow-rounded-dark-gray-cafbb011c5ffa955193e9d6bedeac7a9f83e151c13d2219b117349572ad86ad8.svg) no-repeat;
+    background: url(/assets/icons/right-arrow-rounded-dark-gray-cafbb011c5ffa955193e9d6bedeac7a9f83e151c13d2219b117349572ad86ad8.svg) no-repeat;
     background-position: 0.3125rem 0.1875rem; }
   .icon-arrow-rounded.arrow-down {
     -webkit-transform: rotate(1deg);
@@ -6665,7 +6665,7 @@ th {
   height: 1.125rem;
   background-size: 1.125rem 1.125rem; }
   .icon-arrow-straight.dark-gray-arrow {
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/left-arrow-dark-gray-b286eaa173c2be3ff437a37c87d8e4108a8b731234039366391a19585f86f8c1.svg) no-repeat;
+    background: url(/assets/icons/left-arrow-dark-gray-b286eaa173c2be3ff437a37c87d8e4108a8b731234039366391a19585f86f8c1.svg) no-repeat;
     background-position: 0.3125rem 0.1875rem; }
   .icon-arrow-straight.arrow-down {
     -webkit-transform: rotate(-90deg);
@@ -6687,7 +6687,7 @@ th {
   text-indent: -9999px;
   width: 2.5rem;
   height: 2.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/planner-blue-0eafebce174669e8f0bf91f47af20b97ae7c8785e522462bb6f7c83b3816a1a8.svg) no-repeat;
+  background: url(/assets/icons/planner-blue-0eafebce174669e8f0bf91f47af20b97ae7c8785e522462bb6f7c83b3816a1a8.svg) no-repeat;
   background-size: 2.5rem 2.5rem; }
 
 .icon-download-blue:before {
@@ -6696,7 +6696,7 @@ th {
   text-indent: -9999px;
   width: 2.5rem;
   height: 2.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/download-blue-eb1c04710147d076391745f5c5a67b7715013adce402d914a4c3a6407e6906cc.svg) no-repeat;
+  background: url(/assets/icons/download-blue-eb1c04710147d076391745f5c5a67b7715013adce402d914a4c3a6407e6906cc.svg) no-repeat;
   background-size: 2.5rem 2.5rem; }
 
 .icon-pie-blue:before {
@@ -6705,7 +6705,7 @@ th {
   text-indent: -9999px;
   width: 2.5rem;
   height: 2.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/pie-blue-90f8f12c8baa187415cbad8073005702d1fbca4b5b4e05c6c0118065ee28a0e5.svg) no-repeat;
+  background: url(/assets/icons/pie-blue-90f8f12c8baa187415cbad8073005702d1fbca4b5b4e05c6c0118065ee28a0e5.svg) no-repeat;
   background-size: 2.5rem 2.5rem; }
 
 .icon-guide-blue:before {
@@ -6714,7 +6714,7 @@ th {
   text-indent: -9999px;
   width: 2.5rem;
   height: 2.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/guide-blue-d357dbdae2d844fcf2e5f46ecb82074f938b344fa1baa55dbfbd83f3ef29edea.svg) no-repeat;
+  background: url(/assets/icons/guide-blue-d357dbdae2d844fcf2e5f46ecb82074f938b344fa1baa55dbfbd83f3ef29edea.svg) no-repeat;
   background-size: 2.5rem 2.5rem; }
 
 .icon-snapchat-blue-circle-hollow {
@@ -6722,7 +6722,7 @@ th {
   text-indent: -9999px;
   width: 3rem;
   height: 3rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/snapchat_blue_circle_hollow-8edab29884b651485b6a33a9daa72d36995ff4ba01303c9fcd97f7ba3f4772d3.svg) no-repeat;
+  background: url(/assets/icons/snapchat_blue_circle_hollow-8edab29884b651485b6a33a9daa72d36995ff4ba01303c9fcd97f7ba3f4772d3.svg) no-repeat;
   background-size: 3rem 3rem; }
 
 .icon-instagram-blue-circle-hollow {
@@ -6730,7 +6730,7 @@ th {
   text-indent: -9999px;
   width: 3rem;
   height: 3rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/instagram_blue_circle_hollow-2cd08854755bf04f0dbd04e7eb33cfdf35dd48264f9fd4cbe2e8f323e6822dbb.svg) no-repeat;
+  background: url(/assets/icons/instagram_blue_circle_hollow-2cd08854755bf04f0dbd04e7eb33cfdf35dd48264f9fd4cbe2e8f323e6822dbb.svg) no-repeat;
   background-size: 3rem 3rem; }
 
 .icon-twitter-blue-circle-hollow {
@@ -6738,7 +6738,7 @@ th {
   text-indent: -9999px;
   width: 3rem;
   height: 3rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/twitter_blue_circle_hollow-8196db9d985d6493861d815a07206627a56b033d5e655cc69650a4b01f5295ca.svg) no-repeat;
+  background: url(/assets/icons/twitter_blue_circle_hollow-8196db9d985d6493861d815a07206627a56b033d5e655cc69650a4b01f5295ca.svg) no-repeat;
   background-size: 3rem 3rem; }
 
 .icon-social-small {
@@ -6750,21 +6750,21 @@ th {
 
 .icon-facebook-white-f {
   transition: .3s;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/facebook_f_white_full-e4c53ca85a27b57a87b1f15bd4f76487b006b2b60dfe7f878a929a3ce51829e1.svg) no-repeat; }
+  background: url(/assets/icons/facebook_f_white_full-e4c53ca85a27b57a87b1f15bd4f76487b006b2b60dfe7f878a929a3ce51829e1.svg) no-repeat; }
   .icon-facebook-white-f:hover {
     -webkit-transform: translateY(-3px);
             transform: translateY(-3px); }
 
 .icon-instagram-white-camera {
   transition: .3s;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/instagram_camera_white_full-c09be0c7a2ccacbbaef919888a443b6a225e44b41b12126204145f6f1cd8990d.svg) no-repeat; }
+  background: url(/assets/icons/instagram_camera_white_full-c09be0c7a2ccacbbaef919888a443b6a225e44b41b12126204145f6f1cd8990d.svg) no-repeat; }
   .icon-instagram-white-camera:hover {
     -webkit-transform: translateY(-3px);
             transform: translateY(-3px); }
 
 .icon-youtube-white {
   transition: .3s;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/YT_icon_white-d1d92c870d9218997cf990fb7b7f2f07682050720a60129b24c496184bee3948.svg) no-repeat;
+  background: url(/assets/icons/YT_icon_white-d1d92c870d9218997cf990fb7b7f2f07682050720a60129b24c496184bee3948.svg) no-repeat;
   background-size: 1.5rem 1.5rem; }
   .icon-youtube-white:hover {
     -webkit-transform: translateY(-3px);
@@ -6775,7 +6775,7 @@ th {
   text-indent: -9999px;
   width: 5.8125rem;
   height: 1.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/switch_logo_and_word-1073218330b1f9a85dff39a8544ad290b32a1c104c9135de0b48a93ed5bc6e53.svg) no-repeat;
+  background: url(/assets/icons/switch_logo_and_word-1073218330b1f9a85dff39a8544ad290b32a1c104c9135de0b48a93ed5bc6e53.svg) no-repeat;
   background-size: 5.8125rem 1.5rem; }
 
 .icon-serving {
@@ -6783,7 +6783,7 @@ th {
   text-indent: -9999px;
   width: 1.125rem;
   height: 1.25rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/serving-6ec1c29e21fc36b32ddc16e57ce3f33a634829801f3e4fc7efca956b7d591b7b.svg) no-repeat;
+  background: url(/assets/icons/serving-6ec1c29e21fc36b32ddc16e57ce3f33a634829801f3e4fc7efca956b7d591b7b.svg) no-repeat;
   background-size: 1.125rem 1.25rem; }
 
 .icon-baptism {
@@ -6791,7 +6791,7 @@ th {
   text-indent: -9999px;
   width: 0.9375rem;
   height: 1.25rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/baptism-587441bf91aafe7f0dadf24cf749e3f3bd698e75ea96a8b9bccbadba1a57abcd.svg) no-repeat;
+  background: url(/assets/icons/baptism-587441bf91aafe7f0dadf24cf749e3f3bd698e75ea96a8b9bccbadba1a57abcd.svg) no-repeat;
   background-size: 0.9375rem 1.25rem; }
 
 .icon-renewed-heart {
@@ -6799,7 +6799,7 @@ th {
   text-indent: -9999px;
   width: 1.25rem;
   height: 1.25rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/renewed_heart-fc7d7aeb7c49adae7d0fbe38f65b32ea1c2e2bc78908be33f6dab638236851ef.svg) no-repeat;
+  background: url(/assets/icons/renewed_heart-fc7d7aeb7c49adae7d0fbe38f65b32ea1c2e2bc78908be33f6dab638236851ef.svg) no-repeat;
   background-size: 1.25rem 1.25rem; }
 
 .icon-raised-hand {
@@ -6807,7 +6807,7 @@ th {
   text-indent: -9999px;
   width: 0.8125rem;
   height: 1.25rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/raised_hand-56f92aeb3aecbb2f5a31b693fe42a6f3b88fece390af4dfc520abb458928dc5f.svg) no-repeat;
+  background: url(/assets/icons/raised_hand-56f92aeb3aecbb2f5a31b693fe42a6f3b88fece390af4dfc520abb458928dc5f.svg) no-repeat;
   background-size: 0.8125rem 1.25rem; }
 
 .icon-hammer:before {
@@ -6815,7 +6815,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_hammer-9a42383c6d4a4a93362da0fbd99a93d4c907440f279bf330acb3e0973a5dd747.svg) no-repeat;
+  background: url(/assets/icons/spot_hammer-9a42383c6d4a4a93362da0fbd99a93d4c907440f279bf330acb3e0973a5dd747.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-watch {
@@ -6825,7 +6825,7 @@ th {
     display: block;
     width: 4rem;
     height: 4rem;
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_watch-cafef24d68f91f2f92539ade8cd5901ae673f9863c14e0b1274fcb0c95d3afbb.svg) no-repeat;
+    background: url(/assets/icons/spot_watch-cafef24d68f91f2f92539ade8cd5901ae673f9863c14e0b1274fcb0c95d3afbb.svg) no-repeat;
     background-size: 4rem 4rem; }
 
 .icon-plus:before {
@@ -6833,7 +6833,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_plus-419fbc1438f6f3c6b529bb02a52f5235576115ae97725ca0dbd37a1af9f2c43a.svg) no-repeat;
+  background: url(/assets/icons/spot_plus-419fbc1438f6f3c6b529bb02a52f5235576115ae97725ca0dbd37a1af9f2c43a.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-monetary-note {
@@ -6843,7 +6843,7 @@ th {
     display: block;
     width: 4rem;
     height: 4rem;
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_monetary_note-98e5470b0f5e2d8603a80b2aeb95f1f417b0dd0812ec76eaa2499089dc9bfe59.svg) no-repeat;
+    background: url(/assets/icons/spot_monetary_note-98e5470b0f5e2d8603a80b2aeb95f1f417b0dd0812ec76eaa2499089dc9bfe59.svg) no-repeat;
     background-size: 4rem 4rem; }
 
 .icon-map-pin {
@@ -6853,7 +6853,7 @@ th {
     display: block;
     width: 4rem;
     height: 4rem;
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_map_pin-437d3da9dc343d33862cca453eb963b4a692b4c167f29b0d4e2a884021c00f5b.svg) no-repeat;
+    background: url(/assets/icons/spot_map_pin-437d3da9dc343d33862cca453eb963b4a692b4c167f29b0d4e2a884021c00f5b.svg) no-repeat;
     background-size: 4rem 4rem; }
 
 .icon-laptop {
@@ -6863,7 +6863,7 @@ th {
     display: block;
     width: 4rem;
     height: 4rem;
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_laptop-dd13a5a3bb79d7701355e321085ea12d525b6c8b9e4533edc2e80e41ee3cfed0.svg) no-repeat;
+    background: url(/assets/icons/spot_laptop-dd13a5a3bb79d7701355e321085ea12d525b6c8b9e4533edc2e80e41ee3cfed0.svg) no-repeat;
     background-size: 4rem 4rem; }
 
 .icon-spot-arrow:before {
@@ -6871,7 +6871,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/spot_arrow_up-76f4de10b291edfd3967cee0cc732d5a41b6bb43e1eb2f42e421ccd42b7f69de.svg) no-repeat;
+  background: url(/assets/icons/spot_arrow_up-76f4de10b291edfd3967cee0cc732d5a41b6bb43e1eb2f42e421ccd42b7f69de.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-bafk:before {
@@ -6879,7 +6879,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/bafk_icon-951d01477e4e7f753fb803b7a66be1f06e0530a2f962ecb3fcef9ede148e28af.svg) no-repeat;
+  background: url(/assets/icons/bafk_icon-951d01477e4e7f753fb803b7a66be1f06e0530a2f962ecb3fcef9ede148e28af.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-church-metrics:before {
@@ -6887,7 +6887,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/church_metrics_icon-134c7e586dd47a10423d3b89c895b70ca5b825f3c869953dd4f372d309ad43aa.svg) no-repeat;
+  background: url(/assets/icons/church_metrics_icon-134c7e586dd47a10423d3b89c895b70ca5b825f3c869953dd4f372d309ad43aa.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-chop:before {
@@ -6895,7 +6895,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/church_online_platform_icon-200bdaf08eae9bd21db43bd46a689a4690c43108be7f8e7fae444c485f2c98eb.svg) no-repeat;
+  background: url(/assets/icons/church_online_platform_icon-200bdaf08eae9bd21db43bd46a689a4690c43108be7f8e7fae444c485f2c98eb.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-open-network:before {
@@ -6903,7 +6903,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/open_network_icon-b34adfdc082c55a07c5b7dca148f98d5644991bd0a04deb5bff6ac937c0455d4.svg) no-repeat;
+  background: url(/assets/icons/open_network_icon-b34adfdc082c55a07c5b7dca148f98d5644991bd0a04deb5bff6ac937c0455d4.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-lc-app:before {
@@ -6911,7 +6911,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/lc_app_icon-3d0d1fea9b0d659261b5020d0635ec8e064350b46c733a1f7c6751773e82a4b8.svg) no-repeat;
+  background: url(/assets/icons/lc_app_icon-3d0d1fea9b0d659261b5020d0635ec8e064350b46c733a1f7c6751773e82a4b8.svg) no-repeat;
   background-size: 4rem 4rem; }
 
 .icon-youversion-app:before {
@@ -6919,7 +6919,7 @@ th {
   display: block;
   width: 4rem;
   height: 4rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/youversion_icon-3e6532dc5c63974b2aaeab8bb4bf31e79a8d405db04f301a78b5719cf70e5013.svg) no-repeat;
+  background: url(/assets/icons/youversion_icon-3e6532dc5c63974b2aaeab8bb4bf31e79a8d405db04f301a78b5719cf70e5013.svg) no-repeat;
   background-size: 8.25rem;
   background-position: -2.125rem -1rem; }
 
@@ -6928,7 +6928,7 @@ th {
   display: inline-block;
   width: 2.5rem;
   height: 2.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/facebook_white_circle_black_f-9d8d73befd6848239450dcba531b7f014e4615ef70b973f336c5409cca2e229f.svg) no-repeat;
+  background: url(/assets/icons/facebook_white_circle_black_f-9d8d73befd6848239450dcba531b7f014e4615ef70b973f336c5409cca2e229f.svg) no-repeat;
   background-size: 2.5rem 2.5rem; }
 
 .icon-twitter-white-circle-black-bird {
@@ -6936,7 +6936,7 @@ th {
   display: inline-block;
   width: 2.5rem;
   height: 2.5rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/twitter_white_circle_black_bird-343d16c00debc9e48144f40035f26ee976a70d8a08aa56fc6ab66bf76de47b2d.svg) no-repeat;
+  background: url(/assets/icons/twitter_white_circle_black_bird-343d16c00debc9e48144f40035f26ee976a70d8a08aa56fc6ab66bf76de47b2d.svg) no-repeat;
   background-size: 2.5rem 2.5rem; }
 
 .icon-fd-committing {
@@ -6945,7 +6945,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_committing-f3e216be220d200a811e479858b52850fbcdef32f720a76bb1b47095eedfcc97.svg) no-repeat; }
+  background: url(/assets/icons/fd_committing-f3e216be220d200a811e479858b52850fbcdef32f720a76bb1b47095eedfcc97.svg) no-repeat; }
 
 .icon-fd-renewing {
   content: '';
@@ -6953,7 +6953,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_renewing-768f67b45962429c9ab61e559d14edf31208d2dad60b15972fb9173835b267c8.svg) no-repeat; }
+  background: url(/assets/icons/fd_renewing-768f67b45962429c9ab61e559d14edf31208d2dad60b15972fb9173835b267c8.svg) no-repeat; }
 
 .icon-fd-baptize {
   content: '';
@@ -6961,7 +6961,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_baptize-0a036899b4c5351f2e1493a79ad40d03cbe7608429057c40aa53b361671c883a.svg) no-repeat; }
+  background: url(/assets/icons/fd_baptize-0a036899b4c5351f2e1493a79ad40d03cbe7608429057c40aa53b361671c883a.svg) no-repeat; }
 
 .icon-fd-open-door {
   content: '';
@@ -6969,7 +6969,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_open_door-4c159aa638a3db6a1773df97b3e160b3e41cf32af112b5037957a13b95b982da.svg) no-repeat; }
+  background: url(/assets/icons/fd_open_door-4c159aa638a3db6a1773df97b3e160b3e41cf32af112b5037957a13b95b982da.svg) no-repeat; }
 
 .icon-fd-serve {
   content: '';
@@ -6977,7 +6977,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_serve-cb8dce1d42acf50a7277f4d0a7b37b7e65d8e7349f52c38eaeaecdd85d119e04.svg) no-repeat; }
+  background: url(/assets/icons/fd_serve-cb8dce1d42acf50a7277f4d0a7b37b7e65d8e7349f52c38eaeaecdd85d119e04.svg) no-repeat; }
 
 .icon-fd-prayer {
   content: '';
@@ -6985,7 +6985,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_prayer-799e46287b283f34dd25ce87a2c98eaad52b18d1348da1bae71105be69308f19.svg) no-repeat; }
+  background: url(/assets/icons/fd_prayer-799e46287b283f34dd25ce87a2c98eaad52b18d1348da1bae71105be69308f19.svg) no-repeat; }
 
 .icon-fd-question {
   content: '';
@@ -6993,7 +6993,7 @@ th {
   width: 2.125rem;
   height: 2rem;
   background-size: 2.0625rem 2rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/fd_question-c66d5f4875e5294a960d3d077297d18199d00f262b76ce26e693e1af1983e0b0.svg) no-repeat; }
+  background: url(/assets/icons/fd_question-c66d5f4875e5294a960d3d077297d18199d00f262b76ce26e693e1af1983e0b0.svg) no-repeat; }
 
 .icon-google-play-button {
   position: absolute;
@@ -7003,7 +7003,7 @@ th {
           transform: translate(-50%, -50%);
   width: 1rem;
   height: 1rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/google-play-b080c8b564d046e103a6a6696c7b92a97e4f3777efb79d8a5053c0b4a9da3501.svg) no-repeat;
+  background: url(/assets/icons/google-play-b080c8b564d046e103a6a6696c7b92a97e4f3777efb79d8a5053c0b4a9da3501.svg) no-repeat;
   background-size: 1rem 1rem; }
   @media print, screen and (min-width: 40em) {
     .icon-google-play-button {
@@ -7019,7 +7019,7 @@ th {
           transform: translate(-50%, -50%);
   width: 1rem;
   height: 1rem;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/podcast-icon-92b8ccea124222366f326384ab5d8008f0d2fc35e2624a79b89439f9c6756062.svg) no-repeat;
+  background: url(/assets/icons/podcast-icon-92b8ccea124222366f326384ab5d8008f0d2fc35e2624a79b89439f9c6756062.svg) no-repeat;
   background-size: 1rem 1rem; }
   @media print, screen and (min-width: 40em) {
     .icon-podcast-button {
@@ -7041,46 +7041,46 @@ th {
             transform: translateY(-0.25rem); }
 
 .icon-social-share-facebook {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_facebook-6bea94ad44ad82adf4c5c312553e07cc6d62b2a948c7961da107b18553aa3201.svg) no-repeat;
+  background: url(/assets/icons/share_facebook-6bea94ad44ad82adf4c5c312553e07cc6d62b2a948c7961da107b18553aa3201.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-twitter {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_twitter-5c34efa9ccb2636cffb57f9d807ff7fbeadeed5121057f2ae932151e736bc5bc.svg) no-repeat;
+  background: url(/assets/icons/share_twitter-5c34efa9ccb2636cffb57f9d807ff7fbeadeed5121057f2ae932151e736bc5bc.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-instagram {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_instagram-958ef94dbe926669112b9dcc2fcbb3c10f3b44b602886c978414e95d7dbc3cbf.svg) no-repeat;
+  background: url(/assets/icons/share_instagram-958ef94dbe926669112b9dcc2fcbb3c10f3b44b602886c978414e95d7dbc3cbf.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-link {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_link-6781a05b5997689179fd18bbbb923c5e0c843e216bf739837ec39c7e57671330.svg) no-repeat;
+  background: url(/assets/icons/share_link-6781a05b5997689179fd18bbbb923c5e0c843e216bf739837ec39c7e57671330.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-email {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_email-419d231cfce14389c8a371f14aa30ced8907132a0ce959d64d202322fef9ceeb.svg) no-repeat;
+  background: url(/assets/icons/share_email-419d231cfce14389c8a371f14aa30ced8907132a0ce959d64d202322fef9ceeb.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-snapchat {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_snapchat-aa8edbaadd1721a678d64ec196044a32c1b1825e3ab5dd655c6d5f5c76942451.svg) no-repeat;
+  background: url(/assets/icons/share_snapchat-aa8edbaadd1721a678d64ec196044a32c1b1825e3ab5dd655c6d5f5c76942451.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-download {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/share_download-c36471f660d7186579013a87fcc2c0b7bb33107bb52d1320f3f50e779136aadd.svg) no-repeat;
+  background: url(/assets/icons/share_download-c36471f660d7186579013a87fcc2c0b7bb33107bb52d1320f3f50e779136aadd.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-gold-facebook {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/gold_facebook-6a98ed60a6742711a1aaf7a38c2b1ae931276cdff0cbfa15131f20fb9a0b3193.svg) no-repeat;
+  background: url(/assets/icons/gold_facebook-6a98ed60a6742711a1aaf7a38c2b1ae931276cdff0cbfa15131f20fb9a0b3193.svg) no-repeat;
   background-position: center; }
 
 .icon-social-share-gold-instagram {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/gold_instagram-08aeebee164a43f10572f48ec8ddbafad14296cc991bc52224b31803b9ba6731.svg) no-repeat;
+  background: url(/assets/icons/gold_instagram-08aeebee164a43f10572f48ec8ddbafad14296cc991bc52224b31803b9ba6731.svg) no-repeat;
   background-position: center; }
 
 .icon-paperless-question-mark {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/question_circle-ca199ed20eabc2999011bccfe1a8efff53c9f0b986bf6065e88ffaa285a78344.svg) no-repeat;
+  background: url(/assets/icons/question_circle-ca199ed20eabc2999011bccfe1a8efff53c9f0b986bf6065e88ffaa285a78344.svg) no-repeat;
   background-position: center; }
   .icon-paperless-question-mark:hover {
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/question_mark_blue-2cc0fbce5b60810a9123a8c9fbcb55ca86a2958d828560e7973a4ae3a844c4ae.svg) no-repeat; }
+    background: url(/assets/icons/question_mark_blue-2cc0fbce5b60810a9123a8c9fbcb55ca86a2958d828560e7973a4ae3a844c4ae.svg) no-repeat; }
 
 input[type='number'].hide-spinners::-webkit-inner-spin-button, input[type='number'].hide-spinners::-webkit-outer-spin-button {
   -webkit-appearance: none;
@@ -12606,7 +12606,7 @@ a.serving-bg:focus, a.serving-bg:hover {
   width: 1.5rem;
   vertical-align: middle;
   margin-right: 1rem;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/buttons/button-secondary-instagram-f8eb7a0692638c271ed1aeb0949eef7e2140b27402ce1ab3c9649c43de2dab20.svg); }
+  background-image: url(/assets/icons/buttons/button-secondary-instagram-f8eb7a0692638c271ed1aeb0949eef7e2140b27402ce1ab3c9649c43de2dab20.svg); }
 .LC-button.button-primary.button-dark.button-large.button-icon-instagram-right:after {
   content: '';
   background-repeat: no-repeat;
@@ -12614,7 +12614,7 @@ a.serving-bg:focus, a.serving-bg:hover {
   height: 1.5rem;
   width: 1.5rem;
   vertical-align: middle;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/buttons/button-secondary-instagram-f8eb7a0692638c271ed1aeb0949eef7e2140b27402ce1ab3c9649c43de2dab20.svg); }
+  background-image: url(/assets/icons/buttons/button-secondary-instagram-f8eb7a0692638c271ed1aeb0949eef7e2140b27402ce1ab3c9649c43de2dab20.svg); }
 .LC-button.button-primary.button-dark.button-large.button-icon-facebook-left:before {
   content: '';
   background-repeat: no-repeat;
@@ -12623,7 +12623,7 @@ a.serving-bg:focus, a.serving-bg:hover {
   width: 1.5rem;
   vertical-align: middle;
   margin-right: 1rem;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/buttons/button-secondary-facebook-846614cdb53d23f059278ea2aa9e1ec86395daea1b32e63c9339930fb1b3b3a5.svg); }
+  background-image: url(/assets/icons/buttons/button-secondary-facebook-846614cdb53d23f059278ea2aa9e1ec86395daea1b32e63c9339930fb1b3b3a5.svg); }
 .LC-button.button-primary.button-dark.button-large.button-icon-share-left:before {
   content: '';
   background-repeat: no-repeat;
@@ -12632,7 +12632,7 @@ a.serving-bg:focus, a.serving-bg:hover {
   width: 1.5rem;
   vertical-align: middle;
   margin-right: 1rem;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/buttons/button-secondary-share-c3ebbbb47ab6e4073a2b5d846a242813e1523a86e0f410bd441119c01e86eb0e.svg); }
+  background-image: url(/assets/icons/buttons/button-secondary-share-c3ebbbb47ab6e4073a2b5d846a242813e1523a86e0f410bd441119c01e86eb0e.svg); }
 
 .LC-button.button-secondary.button-dark.button-icon-map-left:before {
   content: '';
@@ -12644,9 +12644,9 @@ a.serving-bg:focus, a.serving-bg:hover {
   margin-right: 1rem;
   height: 1.75rem;
   width: 1.375rem;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/buttons/button-primary-map-b4619fff929e2b381d0be00f6d35e9e57f128e82e668bf28c3e6ca87b0ead2fe.svg); }
+  background-image: url(/assets/icons/buttons/button-primary-map-b4619fff929e2b381d0be00f6d35e9e57f128e82e668bf28c3e6ca87b0ead2fe.svg); }
 .LC-button.button-secondary.button-dark.button-icon-map-left:hover:before {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/buttons/button-secondary-map-ec495b6df21ed8a3129ad0d677dbaf8f8cc1e69560f780b12af77005ccac4362.svg); }
+  background-image: url(/assets/icons/buttons/button-secondary-map-ec495b6df21ed8a3129ad0d677dbaf8f8cc1e69560f780b12af77005ccac4362.svg); }
 
 .white {
   background: white;
@@ -13178,7 +13178,7 @@ table {
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
     content: '';
-    background: rgba(0, 0, 0, 0.2) url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/play-button-video-7b2c03ec7392d479f2bbf1a486bf2d1188967b057a24471d47f32b63f65b1245.svg) center center no-repeat;
+    background: rgba(0, 0, 0, 0.2) url(/assets/icons/play-button-video-7b2c03ec7392d479f2bbf1a486bf2d1188967b057a24471d47f32b63f65b1245.svg) center center no-repeat;
     background-size: 45px 45px;
     height: 100%;
     width: 100%; }
@@ -13571,7 +13571,7 @@ table {
     margin-top: 2em; }
 
 .jw-play-toggle {
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/player/play-ec90d38bb394c7202e3fdb267b23277a18258ee969298b435c04f044dd912a7e.svg) no-repeat center center;
+  background: url(/assets/player/play-ec90d38bb394c7202e3fdb267b23277a18258ee969298b435c04f044dd912a7e.svg) no-repeat center center;
   background-position: 53% 55%;
   position: absolute;
   top: 50%;
@@ -13592,7 +13592,7 @@ table {
       width: 60px;
       height: 60px; } }
   .jw-play-toggle.playing {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/player/pause-ddabf2612be5ba474e980eeefc82a1d95ca58ba7950ff6595c92bd96e655fbba.svg); }
+    background-image: url(/assets/player/pause-ddabf2612be5ba474e980eeefc82a1d95ca58ba7950ff6595c92bd96e655fbba.svg); }
 
 #player-section.audio-player-embed-sticky {
   width: 100%;
@@ -13880,7 +13880,7 @@ table {
       position: absolute;
       top: 17px;
       left: 15px;
-      background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/up-arrow-8a9ff877a9cef599feae034104286fb2c85c4d78b390ef4d70ea4243cd93d769.svg);
+      background-image: url(/assets/icons/up-arrow-8a9ff877a9cef599feae034104286fb2c85c4d78b390ef4d70ea4243cd93d769.svg);
       width: 1.125rem;
       height: 0.625rem;
       z-index: 1000; }
@@ -13894,7 +13894,7 @@ table {
       position: absolute;
       top: 14px;
       left: 11px;
-      background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/down-arrow-66f7351afd9034d495df7879e1348ae12209f1a152f2db74acc038fdef32015f.svg);
+      background-image: url(/assets/icons/down-arrow-66f7351afd9034d495df7879e1348ae12209f1a152f2db74acc038fdef32015f.svg);
       width: 1.54375rem !important;
       height: 1.54375rem !important;
       background-size: 100%;
@@ -14088,7 +14088,7 @@ body * {
         margin-bottom: 1.25rem; } }
 
 .welcome-to-lc .bg-image {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/home/welcome-here-5027c4ed5fcd8a69ba44fff81cbc1a933610e7e5004b816f6da05ca9d4b5a6af.jpg);
+  background-image: url(/assets/home/welcome-here-5027c4ed5fcd8a69ba44fff81cbc1a933610e7e5004b816f6da05ca9d4b5a6af.jpg);
   background-position: right top;
   background-size: cover;
   height: 23.4375rem; }
@@ -14097,7 +14097,7 @@ body * {
       height: 37.25rem; } }
 
 section.worship {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/home/worship-sm-dce689239fa32b6f950e9e51f50a5bab3bff400966c5b501b495865c07c27baa.jpg);
+  background-image: url(/assets/home/worship-sm-dce689239fa32b6f950e9e51f50a5bab3bff400966c5b501b495865c07c27baa.jpg);
   background-position: center;
   background-size: cover;
   padding: 18rem 0 3rem; }
@@ -14108,7 +14108,7 @@ section.worship {
     color: #ececec; }
   @media print, screen and (min-width: 40em) {
     section.worship {
-      background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/home/worship-lg-6d7114decbd340475633f5e4191b1d205f757331f2af9e472f7fcd1c8640be3d.jpg);
+      background-image: url(/assets/home/worship-lg-6d7114decbd340475633f5e4191b1d205f757331f2af9e472f7fcd1c8640be3d.jpg);
       padding: 5rem 0; } }
 
 @media print, screen and (min-width: 64em) {
@@ -14202,7 +14202,7 @@ section.worship {
       padding-bottom: 3rem; } }
   .app #milestones:before {
     content: "";
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/app/curve-cutout-bg-ef01442daa10cd01d14f345abed3b72c4acedea1e5fc027ed7f68fd1120134d3.svg);
+    background-image: url(/assets/pages/app/curve-cutout-bg-ef01442daa10cd01d14f345abed3b72c4acedea1e5fc027ed7f68fd1120134d3.svg);
     width: 100%;
     background-size: cover;
     height: 0;
@@ -14280,10 +14280,10 @@ section.worship {
     .app #speaker {
       text-align: left; } }
 .app #tv {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/app/TV-apps-small-dff74cb0e0a2caf473ed9cd9e495477b2491602c84707490d869f78ce447a8fc.jpg); }
+  background-image: url(/assets/pages/app/TV-apps-small-dff74cb0e0a2caf473ed9cd9e495477b2491602c84707490d869f78ce447a8fc.jpg); }
   @media print, screen and (min-width: 64em) {
     .app #tv {
-      background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/app/TV-apps-6a44963aac2db229598a5127e6a812c3efe8f20e4827d5b425be5e2f7c275633.jpg);
+      background-image: url(/assets/pages/app/TV-apps-6a44963aac2db229598a5127e6a812c3efe8f20e4827d5b425be5e2f7c275633.jpg);
       background-position: left;
       max-height: 31.25rem; } }
   .app #tv .content-section {
@@ -14293,10 +14293,10 @@ section.worship {
         padding-top: 5.4%;
         padding-bottom: 10%; } }
 .app #speaker {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/app/smart-speaker-bg-small-310b4f934eb6596c604a63dcf8cabf34377283c366acc81bb0f8a8b28796a3d3.jpg); }
+  background-image: url(/assets/pages/app/smart-speaker-bg-small-310b4f934eb6596c604a63dcf8cabf34377283c366acc81bb0f8a8b28796a3d3.jpg); }
   @media print, screen and (min-width: 64em) {
     .app #speaker {
-      background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/app/smart-speaker-bg-4730f085b6292e75ca9c52013cec7e6e130ccc103d8c14ef7f4da5df1622846c.jpg);
+      background-image: url(/assets/pages/app/smart-speaker-bg-4730f085b6292e75ca9c52013cec7e6e130ccc103d8c14ef7f4da5df1622846c.jpg);
       background-position: 20px;
       max-height: 31.25rem;
       background-size: cover; } }
@@ -14867,7 +14867,7 @@ section.worship {
   .central-america-relief input[type='checkbox'] + label.checkbox.custom-checkbox::after {
     content: none; }
   .central-america-relief input[type='checkbox']:checked + label.checkbox.custom-checkbox::after {
-    content: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/checkmark-white-599e69c3b9d2799d120f655c3815b7a7e887cabb6c792aa097c281318c057e19.svg); }
+    content: url(/assets/icons/checkmark-white-599e69c3b9d2799d120f655c3815b7a7e887cabb6c792aa097c281318c057e19.svg); }
   .central-america-relief input[type='checkbox']:checked + label.checkbox.custom-checkbox::before {
     background-color: #009ecc;
     border-color: #009ecc; }
@@ -15232,7 +15232,7 @@ section.worship {
     width: 100%;
     height: 3.125rem;
     display: inline-block;
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/christmas/shadow-de7f62cbcdd9cfd3a111a0312e6c2b2ed054627fb0f33013a1b4e14e89589beb.png);
+    background-image: url(/assets/pages/christmas/shadow-de7f62cbcdd9cfd3a111a0312e6c2b2ed054627fb0f33013a1b4e14e89589beb.png);
     background-repeat: no-repeat;
     background-size: contain; }
 
@@ -15675,7 +15675,7 @@ section.worship {
       line-height: 3.8125rem; } }
 .easter .he-is-risen {
   background-position: center;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/easter/he-is-risen-26116eba5f49eb8968496d55ee10576eb6f701aba64a6e0be6bc9770f94aadf1.jpg);
+  background-image: url(/assets/pages/easter/he-is-risen-26116eba5f49eb8968496d55ee10576eb6f701aba64a6e0be6bc9770f94aadf1.jpg);
   background-size: contain;
   background-attachment: fixed; }
 .easter .palm-tree-leaf {
@@ -16392,7 +16392,7 @@ section.worship {
   .at-the-movies #hsForm_3a7c0162-ac20-451c-bfa4-1d2712e21a4f .hs-button.primary.large {
     width: 2.5rem;
     height: 2.5rem;
-    background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/right-form-arrow-5a1e0df571391849b3b8bd1f42feb314f7d518e6868fe5f0fc07536b0063ce4d.svg) no-repeat;
+    background: url(/assets/icons/right-form-arrow-5a1e0df571391849b3b8bd1f42feb314f7d518e6868fe5f0fc07536b0063ce4d.svg) no-repeat;
     background-size: 1.25rem 1.25rem;
     background-position: center;
     background-color: #00a8d8; }
@@ -17305,9 +17305,9 @@ section.worship {
       min-height: 837px;
       max-height: 837px; } }
   .lifemissions .hero.locally {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/local-bg.jpg); }
+    background-image: url(/pages/lifemissions/cleanup_compressed/local-bg.jpg); }
   .lifemissions .hero.globally {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-bg-large.jpg); }
+    background-image: url(/pages/lifemissions/cleanup_compressed/global-bg-large.jpg); }
   .lifemissions .hero h1 {
     color: #fff;
     font-family: "proxima_novablack", helvetica, serif;
@@ -17573,7 +17573,7 @@ section.worship {
   .lifemissions .hero .hero-local-content .card-description {
     padding-bottom: 44px; }
   .lifemissions .hero .hero-local-content .hero-bottom-image {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/local-hero.png);
+    background-image: url(/pages/lifemissions/cleanup_compressed/local-hero.png);
     background-size: auto 193px;
     bottom: -1.25rem; }
     @media only screen and (min-width: 768px) {
@@ -17589,7 +17589,7 @@ section.worship {
   .lifemissions .hero .hero-global-content .card-description {
     padding-bottom: 44px; }
   .lifemissions .hero .hero-global-content .hero-bottom-image {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-man-large.png);
+    background-image: url(/pages/lifemissions/cleanup_compressed/global-man-large.png);
     background-size: auto 187px; }
     @media only screen and (min-width: 768px) {
       .lifemissions .hero .hero-global-content .hero-bottom-image {
@@ -18445,7 +18445,7 @@ section.worship {
       max-height: 610px; } }
   @media only screen and (min-width: 1200px) {
     .lifemissions.global .hero {
-      background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-bg-large.jpg);
+      background-image: url(/pages/lifemissions/cleanup_compressed/global-bg-large.jpg);
       background-size: cover;
       background-position: center top; } }
   @media only screen and (max-width: 639px) {
@@ -18519,7 +18519,7 @@ section.worship {
         padding-top: 0.8125rem;
         padding-bottom: 0.8125rem; } }
   .lifemissions.global .hero .picture-row {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-bg-large.jpg);
+    background-image: url(/pages/lifemissions/cleanup_compressed/global-bg-large.jpg);
     min-height: 20.9375rem;
     background-repeat: no-repeat;
     background-size: auto 335px;
@@ -18538,7 +18538,7 @@ section.worship {
       .lifemissions.global .hero .picture-row {
         background-image: none; } }
   .lifemissions.global .hero .hero-bottom-image {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-man-large.png);
+    background-image: url(/pages/lifemissions/cleanup_compressed/global-man-large.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 15.4375rem;
@@ -18697,7 +18697,7 @@ section.worship {
         font-size: 1.125rem;
         padding-top: 1.25rem; } }
   .lifemissions.global .get-involved .orbit-slide.give {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-give-img.jpg);
+    background-image: url(/pages/lifemissions/cleanup_compressed/global-give-img.jpg);
     background-size: auto 161px; }
     .lifemissions.global .get-involved .orbit-slide.give .button {
       background-color: #09c1a1;
@@ -18724,7 +18724,7 @@ section.worship {
         background-position: 3.5% bottom;
         background-size: auto 509px; } }
   .lifemissions.global .get-involved .orbit-slide.share {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-share-img.jpg);
+    background-image: url(/pages/lifemissions/cleanup_compressed/global-share-img.jpg);
     background-size: auto 171px; }
     .lifemissions.global .get-involved .orbit-slide.share .button {
       background-color: #2993e5;
@@ -18756,7 +18756,7 @@ section.worship {
        to the user that there needs to be a value. */ }
     @media print, screen and (min-width: 40em) {
       .lifemissions.global .get-involved .orbit-slide.pray {
-        background-image: url(https://greentree-consulting.github.io/lifechurch-site/pages/lifemissions/cleanup_compressed/global-pray-img.jpg);
+        background-image: url(/pages/lifemissions/cleanup_compressed/global-pray-img.jpg);
         background-size: auto 171px;
         background-position: 105% bottom; } }
     .lifemissions.global .get-involved .orbit-slide.pray .hs-form .hs-error-msgs label {
@@ -19049,7 +19049,7 @@ section.worship {
 #hsForm_38cd2ebf-e0fa-442a-85df-a8028069b03c .confirmation-icon {
   display: block;
   height: 24px;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/checkmark-icon-d6a3935a031b68a2ed9db6bf7faee4e8b47fdae846760e8de87618dfa8b7f8b3.svg) no-repeat;
+  background: url(/assets/icons/checkmark-icon-d6a3935a031b68a2ed9db6bf7faee4e8b47fdae846760e8de87618dfa8b7f8b3.svg) no-repeat;
   background-size: 24px 24px;
   background-position: center bottom;
   margin-bottom: 8px;
@@ -19098,12 +19098,12 @@ section.worship {
 .locations .map .is-opened .state-title {
   font-size: 2rem; }
 .locations .default-marker {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/locations/default-map-marker-53f975614ecf0e85a0cbea3ecdafc7ad5f636fb40ab17f1e5622a41e7bcac3e7.svg);
+  background-image: url(/assets/pages/locations/default-map-marker-53f975614ecf0e85a0cbea3ecdafc7ad5f636fb40ab17f1e5622a41e7bcac3e7.svg);
   background-size: cover;
   height: 1.75rem;
   width: 1.4375rem; }
 .locations .pre-launch-marker {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/locations/blue-map-marker-69a6e27c8dce941219c61f297e2bdcb3c12463f4f1a3800fed1f38f6cdb4adb5.svg);
+  background-image: url(/assets/pages/locations/blue-map-marker-69a6e27c8dce941219c61f297e2bdcb3c12463f4f1a3800fed1f38f6cdb4adb5.svg);
   background-size: cover;
   height: 1.75rem;
   width: 1.4375rem; }
@@ -21336,7 +21336,7 @@ h4.state-title {
   background-size: 25px 25px;
   background-position: center 15px;
   margin-bottom: -15px;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/locations/map-churchonline-fe3617bf87c5f3ac6d5273251df08d5c1bc9919a3910731c6e63b9f7fef7a2fa.svg);
+  background-image: url(/assets/pages/locations/map-churchonline-fe3617bf87c5f3ac6d5273251df08d5c1bc9919a3910731c6e63b9f7fef7a2fa.svg);
   background-repeat: no-repeat; }
 
 .map .more-options #online:hover {
@@ -21695,7 +21695,7 @@ footer.closing {
         min-width: 300px;
         margin-left: 1rem; }
         .watch-item-details .resources-tio ul.menu li ul li {
-          background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/tio-icon-0b4a5b4c9104b6e4ed682e10dd6521bd774a88931aa5bdb053e27b7f550d86fc.png);
+          background-image: url(/assets/icons/tio-icon-0b4a5b4c9104b6e4ed682e10dd6521bd774a88931aa5bdb053e27b7f550d86fc.png);
           background-repeat: no-repeat;
           background-position: left center; }
           .watch-item-details .resources-tio ul.menu li ul li a.dropdown {
@@ -21881,7 +21881,7 @@ footer.closing {
       .media-section .all.alt a {
         color: #404041; }
       .media-section .all.alt + .slick-slider .slick-arrow {
-        background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/carousel-arrow-dark-7d02f34e9235485abdbd571b5e9b543143e60bb29d89a97918a8f04ec1f89414.svg) !important; }
+        background-image: url(/assets/icons/carousel-arrow-dark-7d02f34e9235485abdbd571b5e9b543143e60bb29d89a97918a8f04ec1f89414.svg) !important; }
   .media-section div[class*="-push-"] .all {
     top: 0; }
     @media print, screen and (min-width: 40em) {
@@ -22595,7 +22595,7 @@ footer.closing {
       display: none; }
 
 .worship .hero-land {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/worship/worship-hero-35217f6d3509bf2ac102afe22ac45fe626dc7015547aaa8d41b5967983ae4b6e.jpg);
+  background-image: url(/assets/pages/worship/worship-hero-35217f6d3509bf2ac102afe22ac45fe626dc7015547aaa8d41b5967983ae4b6e.jpg);
   display: table;
   height: 74%;
   width: 100%;
@@ -23011,7 +23011,7 @@ footer.closing {
 .loop .more-series-title {
   color: #404041; }
   .loop .more-series-title .section-icon {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/loop-icon-cf28ae453495bdda90a484a1ef34a16bd71d3cd2ce2ed007a0fa26d54375ba34.svg);
+    background-image: url(/assets/icons/loop-icon-cf28ae453495bdda90a484a1ef34a16bd71d3cd2ce2ed007a0fa26d54375ba34.svg);
     display: inline-block;
     background-size: contain;
     width: 1.625rem;
@@ -23032,7 +23032,7 @@ footer.closing {
         margin-right: 22px; } }
 
 .media-section--konnect {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/media/konnect_bg_tile-5f1019cda6b13441df1bed630032fe5926f1360a65861c2d366b9759f1b30ec0.png);
+  background-image: url(/assets/media/konnect_bg_tile-5f1019cda6b13441df1bed630032fe5926f1360a65861c2d366b9759f1b30ec0.png);
   background-repeat: repeat; }
   .media-section--konnect h2 {
     color: white; }
@@ -23042,7 +23042,7 @@ footer.closing {
 .konnect .more-series-title {
   color: #404041; }
   .konnect .more-series-title .section-icon {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/konnect-icon-8af03f415c80bc9715a1c85d28e88e12fc15f0a700c7cdef2b771d6b617322ec.png);
+    background-image: url(/assets/icons/konnect-icon-8af03f415c80bc9715a1c85d28e88e12fc15f0a700c7cdef2b771d6b617322ec.png);
     display: inline-block;
     background-size: contain;
     width: 1.625rem;
@@ -23072,7 +23072,7 @@ footer.closing {
 .roots .more-series-title {
   color: #404041; }
   .roots .more-series-title .section-icon {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/images/icons/roots-icon.svg);
+    background-image: url(/images/icons/roots-icon.svg);
     display: inline-block;
     background-size: contain;
     width: 1.625rem;
@@ -23105,7 +23105,7 @@ footer.closing {
 .switch .more-series-title {
   color: #404041; }
   .switch .more-series-title .section-icon {
-    background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/switch-icon-3cf490bfc09e9099e441a588c7d5289803460ec6fda08461ad7d42c485f14c0a.svg);
+    background-image: url(/assets/icons/switch-icon-3cf490bfc09e9099e441a588c7d5289803460ec6fda08461ad7d42c485f14c0a.svg);
     display: inline-block;
     background-size: contain;
     width: 2rem;
@@ -23172,7 +23172,7 @@ footer.closing {
   color: #404041; }
 
 .media-section--crosstown {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/media/crosstown_bg_tile-86eaa857a009a111c96d5f057c5b146f7b14ca21752c6272ce8f606400d24103.png);
+  background-image: url(/assets/media/crosstown_bg_tile-86eaa857a009a111c96d5f057c5b146f7b14ca21752c6272ce8f606400d24103.png);
   background-repeat: repeat; }
   .media-section--crosstown h2 {
     color: #ffffff; }
@@ -23435,7 +23435,7 @@ footer.closing {
 .prayer .hero {
   padding: 9em 0;
   color: white;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/prayer/hero-bg-769aed0374d515afa10514a926775148df769023d562a853c1f1034fe593d359.jpg);
+  background-image: url(/assets/pages/prayer/hero-bg-769aed0374d515afa10514a926775148df769023d562a853c1f1034fe593d359.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -23676,7 +23676,7 @@ footer.closing {
   color: #999899;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/arrow-sisters-grey-2e3ee8743b60b0614f38bf6a98ac6383c0b300267ae5a8b58b2002b2d7e8bef3.svg) no-repeat;
+  background: url(/assets/icons/arrow-sisters-grey-2e3ee8743b60b0614f38bf6a98ac6383c0b300267ae5a8b58b2002b2d7e8bef3.svg) no-repeat;
   background-size: 16px;
   background-color: #ffffff;
   line-height: 1.5;
@@ -23693,7 +23693,7 @@ footer.closing {
     border-bottom-color: transparent; }
 .sisters .waves-bg-section {
   color: #9f9fa0;
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/sisters/wave-320-bg@3x-1c50feab72d9cdfd0c1ecbab9ddbb5b04522363e46db5084f45cdc9fcdc20707.jpg);
+  background-image: url(/assets/pages/sisters/wave-320-bg@3x-1c50feab72d9cdfd0c1ecbab9ddbb5b04522363e46db5084f45cdc9fcdc20707.jpg);
   background-position: center 1.5rem;
   background-size: 100% 33.6875rem;
   background-repeat: no-repeat; }
@@ -23838,7 +23838,7 @@ footer.closing {
     color: #9f9fa0; }
 
 .lc-switch .custom-background {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/switch/switch-background-211eca4f92ee7f6b59db692d1f389a7d4fab57cf55a81c8cecff21948ea03e77.svg); }
+  background-image: url(/assets/pages/switch/switch-background-211eca4f92ee7f6b59db692d1f389a7d4fab57cf55a81c8cecff21948ea03e77.svg); }
 .lc-switch .lc-switch-logo {
   width: 15rem; }
 .lc-switch .switch-header-teaser {
@@ -23967,7 +23967,7 @@ footer.closing {
 .stay_connected .confirmation-icon {
   display: block;
   height: 24px;
-  background: url(https://greentree-consulting.github.io/lifechurch-site/assets/icons/checkmark-icon-d6a3935a031b68a2ed9db6bf7faee4e8b47fdae846760e8de87618dfa8b7f8b3.svg) no-repeat;
+  background: url(/assets/icons/checkmark-icon-d6a3935a031b68a2ed9db6bf7faee4e8b47fdae846760e8de87618dfa8b7f8b3.svg) no-repeat;
   background-size: 48px 48px;
   background-position: center bottom;
   margin-bottom: 8px;
@@ -24188,13 +24188,13 @@ footer.closing {
       -webkit-transform: initial;
               transform: initial; }
     .tech-internship .social-share .menu.addthis_toolbox .icon.icon-social-email:before {
-      background: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/techinternship/btn-email-dbbd96d038c59e36afe16d6b3db2d3f563f0dcef6aeeeed6743bb09969ca74ea.svg) no-repeat; }
+      background: url(/assets/pages/techinternship/btn-email-dbbd96d038c59e36afe16d6b3db2d3f563f0dcef6aeeeed6743bb09969ca74ea.svg) no-repeat; }
     .tech-internship .social-share .menu.addthis_toolbox .icon.icon-social-facebook:before {
-      background: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/techinternship/btn-facebook-f672585a8b62f0d81b9fdd04b683e4a0ba2d79e344187b4be0b2257525756e67.svg) no-repeat; }
+      background: url(/assets/pages/techinternship/btn-facebook-f672585a8b62f0d81b9fdd04b683e4a0ba2d79e344187b4be0b2257525756e67.svg) no-repeat; }
     .tech-internship .social-share .menu.addthis_toolbox .icon.icon-social-twitter:before {
-      background: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/techinternship/btn-twitter-899800b3ead8d37f637ff08f38249e8c3b3a9ddfe42d61ead0bef92e89211bf3.svg) no-repeat; }
+      background: url(/assets/pages/techinternship/btn-twitter-899800b3ead8d37f637ff08f38249e8c3b3a9ddfe42d61ead0bef92e89211bf3.svg) no-repeat; }
     .tech-internship .social-share .menu.addthis_toolbox .icon.icon-social-link:before {
-      background: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/techinternship/btn-link-b8eadb154724bbdc0b24d59760bbc8715add5ad44acfe06e0aa5579bf562f3ff.svg) no-repeat; }
+      background: url(/assets/pages/techinternship/btn-link-b8eadb154724bbdc0b24d59760bbc8715add5ad44acfe06e0aa5579bf562f3ff.svg) no-repeat; }
 .tech-internship .social-share li {
   display: inline-block; }
 .tech-internship .social-share a {
@@ -26699,7 +26699,7 @@ a:hover .more-line-3 {
   background: #f7f7f7; }
 
 .map-default-marker {
-  background-image: url(https://greentree-consulting.github.io/lifechurch-site/assets/pages/locations/default-map-marker-53f975614ecf0e85a0cbea3ecdafc7ad5f636fb40ab17f1e5622a41e7bcac3e7.svg);
+  background-image: url(/assets/pages/locations/default-map-marker-53f975614ecf0e85a0cbea3ecdafc7ad5f636fb40ab17f1e5622a41e7bcac3e7.svg);
   background-size: cover;
   height: 1.75rem;
   width: 1.4375rem; }
@@ -26714,7 +26714,4 @@ a:hover .more-line-3 {
  * compiled file so the styles you add here take precedence over styles defined in any styles
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
-
-
-
  */
