@@ -26,7 +26,7 @@
     <script src="http://fast.wistia.net/static/iframe-api-v1.js"></script>
 
     <!-- Google Analytics -->
-    <script>
+    <!--script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -34,7 +34,7 @@
       //ga('create', 'UA-3571547-95', 'lifechurch.tv');
       ga('create', 'UA-3571547-95', 'none');
       ga('send', 'pageview');
-    </script>
+    </script-->
 
     {% if page.section == 'watch' %}
     {% for series in site.data.watch %}
@@ -88,7 +88,31 @@
     {% endfor %}
 
     <!-- Page Header -->
-    <header class="page-header">
+        <!-- Navigation -->
+<div class="navigation-wrapper">
+  <header id="navigation">
+    <div class="row">
+      <div class="small-12 columns">
+        <a class="logo" href="/">Life.Church</a>
+        <nav>
+          <div class="left">
+            <a class="nav-live" href="https://live.life.church?utm_source=life.church&utm_medium=website&utm_content=Header-Live&utm_campaign=Life.Church" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Live');">CHURCH ONLINE <span data-churchonline-live></span></a>
+            <a class="nav-watch" href="/media/?utm_source=life.church&utm_medium=website&utm_content=Header-Watch&utm_campaign=Life.Church" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Watch');">MEDIA</a>
+            <a href="/locations/?utm_source=life.church&utm_medium=website&utm_content=Header-Locations&utm_campaign=Life.Church" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Locations');">Locations</a>
+            <a href="/giving/?utm_source=life.church&utm_medium=website&utm_content=Header-Giving&utm_campaign=Life.Church" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Giving');">Give</a>
+            <a href="/who-we-are/?utm_source=life.church&utm_medium=website&utm_content=Header-WhoWeAre&utm_campaign=Life.Church" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Who We Are');">Who We Are</a>
+            <a href="/worship/?utm_source=life.church&utm_medium=website&utm_content=Header-Worship&utm_campaign=Life.Church" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Worship');">Worship</a>
+          </div>
+          <div class="grid-x align-items-center align-right">
+            <ul class="login-wrapper no-bullet m-a-0"><li><a href="/auth/auth0" id="user-login"><img class="avatar" data-no-retina="true" src="" /><span class="login-text"></span></a><ul class="profile-menu no-bullet"><li class="menu-item"><a class="menu-item-link" href="/profile">My Profile</a></li><li class="menu-item"><a class="menu-item-link" href="/contact">Help</a></li><li class="menu-item"><a class="menu-item-link logout" href="#" id="user-logout">Log Out</a></li></ul></li></ul>
+            <a href="" class="js-more-trigger main-menu" onclick="ga('send', 'event', 'Global', 'Click', 'Navigation Menu');"><span class="more-line-1"></span><span class="more-line-2"></span><span class="more-line-3"></span></a>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+</div>
+    <!--header class="page-header">
       <div class="row">
         {% if page.section == "home" %}<div class="small-12 medium-3 large-3 columns">{% else %}<div class="small-4 medium-3 large-3 columns">{% endif %}
           <!-- Site Title -->
@@ -102,12 +126,17 @@
               <li class="nav-locations hide-for-small"><a href="https://greentree-consulting.github.io/lifechurch-site/locations/">Locations</a></li>
               <li class="nav-giving hide-for-small"><a href="https://greentree-consulting.github.io/lifechurch-site/giving/">Give</a></li>
               <li class="nav-new hide-for-small copy"><a href="https://greentree-consulting.github.io/lifechurch-site/who-we-are/">New Here?</a></li>
-              <li><a class="nav-more" href="#more"><span class="more-text hide-for-small">More</span><span class="more-text show-for-small">Menu</span><span class="more-line more-line-1"></span><span class="more-line more-line-2"></span><span class="more-line more-line-3"></span></a></li>
+              <li><a class="nav-more" href="#more">
+                <span class="more-text hide-for-small">More</span>
+                <span class="more-text show-for-small">Menu</span>
+                <span class="more-line more-line-1"></span>
+                <span class="more-line more-line-2"></span>
+                <span class="more-line more-line-3"></span></a></li>
             </ul>
           </nav>
         </div>
       </div>
-    </header>
+    </header -->
 
     <!-- Include tertiary here unless watch/locations -->
     {% unless page.section == 'home' %}
