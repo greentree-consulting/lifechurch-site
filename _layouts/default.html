@@ -12,15 +12,10 @@
     <!--link rel="stylesheet" href="https://greentree-consulting.github.io/lifechurch-site/stylesheets/app.css" /-->
     
     <link rel="stylesheet" href="https://greentree-consulting.github.io/lifechurch-site/stylesheets/app-2020.css" />
-    
-
     {% if page.stylesheet == true %}
     <link rel="stylesheet" href="https://greentree-consulting.github.io/lifechurch-site/stylesheets/watch/{{ page.assets }}/style.css" />
     {% endif %}
-
     <script src="https://greentree-consulting.github.io/lifechurch-site/bower_components/modernizr/modernizr.js"></script>
-
-    <!-- Typekit -->
     <script type="text/javascript" src="//use.typekit.net/odw8wsv.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <script src="http://fast.wistia.net/static/iframe-api-v1.js"></script>
@@ -39,7 +34,6 @@
     {% if page.section == 'watch' %}
     {% for series in site.data.watch %}
     {% if series.id == page.series-id %}
-    <!-- Open Graph data -->
     <meta property="og:title" content="{{ series.title }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="http://www.lifechurch.tv{{ page.url }}" />
@@ -47,15 +41,11 @@
     <meta property="og:description" content="{{ series.description_medium }}" />
     <meta property="og:site_name" content="LifeChurch.tv" />
     <meta property="article:published_time" content="{{ page.date }}" />
-
-    <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_image_large">
     <meta name="twitter:site" content="@lifechurchtv">
     <meta name="twitter:title" content="{{ series.title }}">
     {% unless series.description_small == '' %}<meta name="twitter:description" content="{{ series.description_small }}">{% endunless %}
     <meta name="twitter:image:src" content="{{ series.image_large }}">
-
-    <!-- Schema.org markup for Google+ -->
     <meta itemprop="name" content="{{ series.title }}">
     <meta itemprop="image" content="https://greentree-consulting.github.io{{ series.image_social }}">
     <meta itemprop="description" content="{{ series.description_medium }}">
@@ -87,8 +77,6 @@
     {% endif %}
     {% endfor %}
 
-    <!-- Page Header -->
-        <!-- Navigation -->
 <div class="navigation-wrapper">
   <header id="navigation">
     <div class="row">
@@ -115,11 +103,9 @@
     <!--header class="page-header">
       <div class="row">
         {% if page.section == "home" %}<div class="small-12 medium-3 large-3 columns">{% else %}<div class="small-4 medium-3 large-3 columns">{% endif %}
-          <!-- Site Title -->
           <a class="logo" href="https://greentree-consulting.github.io/lifechurch-site/"><span>LifeChurch.tv</span></a>
         </div>
         <div class="small-8 medium-9 large-9 columns">
-          <!-- Primary Links -->
           <nav class="primary-links">
             <ul class="inline-list right">
               <li class="nav-watch hide-for-small"><a href="https://greentree-consulting.github.io/lifechurch-site/watch/">Watch<span class="copy"> a message</span><span class="live hide"> Live</span></a></li>
@@ -138,7 +124,6 @@
       </div>
     </header -->
 
-    <!-- Include tertiary here unless watch/locations -->
     {% unless page.section == 'home' %}
     {% unless page.section == 'watch' %}
 
@@ -147,14 +132,11 @@
     {% endunless %}
     {% endunless %}
 
-    <!-- Page Content -->
     {{ content }}
 
-    <!-- "More" navigation -->
     {% include more.html %}
 
-    <!-- Page Footer -->
-    <footer id="footer" class="page-footer">
+    <!--footer id="footer" class="page-footer">
       <div class="footer-inner">
         <div class="row">
           <div class="small-12 large-6 large-push-6 columns">
@@ -183,8 +165,37 @@
           </div>
         </div>
       </div>
-    </footer>
+    </footer-->
+    <footer class="footer footer-closing">
+  <div class="row">
+    <div class="footer-closing-copy-fd large-6 medium-12 small-12 columns">
+      <p>Join us at <a href="http://live.life.church" target="_blank">Church Online<i class="icon icon-window"></i></a> or a <a href="/locations">Life.Church location</a>.</p>
+      <p>&copy; 2020 Life.Church. All rights reserved. <a href="/privacy/">Privacy Policy</a> | <a href="/terms/">Terms of Use</a></p>
+    </div>
+    
+    <nav class="footer-closing-nav-fd large-6 medium-12 small-12 columns">
+      <ul class="footer-closing-site-links large-element">
+        <li><a href="/media/?utm_source=life.church&utm_medium=website&utm_content=Footer-Watch&utm_campaign=Life.Church">Watch</a></li>
+        <li><a href="/locations/?utm_source=life.church&utm_medium=website&utm_content=Footer-Locations&utm_campaign=Life.Church">Locations</a></li>
+        <li><a href="/giving/?utm_source=life.church&utm_medium=website&utm_content=Footer-Giving&utm_campaign=Life.Church">Give</a></li>
+        <li><a href="/tools/?utm_source=life.church&utm_medium=website&utm_content=Footer-Tools&utm_campaign=Life.Church">Tools</a></li>
+        <li><a href="/churches/?utm_source=life.church&utm_medium=website&utm_content=Footer-Churches&utm_campaign=Life.Church">For Churches</a></li>
+        <li><a href="/careers/?utm_source=life.church&utm_medium=website&utm_content=Footer-Careers&utm_campaign=Life.Church">Careers</a></li>
+        <li><a href="http://gear.life.church?utm_source=life.church&utm_medium=website&utm_content=Footer-Gear&utm_campaign=Life.Church" target="_blank">Gear</a></li>
+        <li><a href="/contact/?utm_source=life.church&utm_medium=website&utm_content=Footer-Contact&utm_campaign=Life.Church">Contact Us</a></li>
+      </ul>
 
+      <ul class="footer-closing-social-links">
+        <li><a href="https://www.facebook.com/life.church?utm_source=life.church&utm_medium=website&utm_content=Footer-Social-Facebook&utm_campaign=Life.Church"><i class="icon-social-facebook"></i> Facebook</a></li>
+        <li><a href="https://twitter.com/lifechurch?utm_source=life.church&utm_medium=website&utm_content=Footer-Social-Twitter&utm_campaign=Life.Church"><i class="icon-social-twitter"></i> Twitter</a></li>
+        <li><a href="http://instagram.com/life.church?utm_source=life.church&utm_medium=website&utm_content=Footer-Social-Instagram&utm_campaign=Life.Church"><i class="icon-social-instagram"></i> Instagram</a></li>
+        <li><a href="http://www.pinterest.com/life_church/?utm_source=life.church&utm_medium=website&utm_content=Footer-Social-Pinterest&utm_campaign=Life.Church"><i class="icon-social-pinterest"></i> Pinterest</a></li>
+        <li><a href="http://www.youtube.com/user/LifeChurchtv?utm_source=life.church&utm_medium=website&utm_content=Footer-Social-YouTube&utm_campaign=Life.Church"><i class="icon-social-youtube"></i> YouTube</a></li>
+      </ul>
+    </nav>
+
+  </div>
+</footer>
     <script src="https://greentree-consulting.github.io/lifechurch-site/bower_components/jquery/jquery.min.js"></script>
     <script src="https://greentree-consulting.github.io/lifechurch-site/bower_components/foundation/js/vendor/fastclick.js"></script>
     <script src="https://greentree-consulting.github.io/lifechurch-site/bower_components/foundation/js/foundation/foundation.js"></script>
