@@ -4,13 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{% if page.section != 'home' %}{{ page.title }} | {% endif %}LifeChurch.tv</title>
-    <link rel="stylesheet" href="/stylesheets/app.css" />
+    <link rel="stylesheet" href="/lifechurch-site/stylesheets/app.css" />
 
     {% if page.stylesheet == true %}
     <link rel="stylesheet" href="{{ page.assets }}style.css" />
     {% endif %}
 
-    <script src="/bower_components/modernizr/modernizr.js"></script>
+    <script src="/lifechurch-site/bower_components/modernizr/modernizr.js"></script>
 
     <!-- Typekit -->
     <script type="text/javascript" src="//use.typekit.net/xfn5dru.js"></script>
@@ -75,9 +75,9 @@
     <!-- "More" navigation -->
     {% include more.html %}
 
-    <script src="/bower_components/jquery/jquery.js"></script>
-    <script src="/bower_components/foundation/js/foundation.min.js"></script>
-    <script src="/js/app.js"></script>
+    <script src="/lifechurch-site/bower_components/jquery/jquery.js"></script>
+    <script src="/lifechurch-site/bower_components/foundation/js/foundation.min.js"></script>
+    <script src="/lifechurch-site/js/app.js"></script>
 
     {% if page.javascript == true %}
     <script src="{{ page.assets }}script.js"></script>
