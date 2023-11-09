@@ -10,7 +10,7 @@ jQuery(function() {
   seconds = void 0;
   intervalId = void 0;
   return $.ajax({
-    url: "http://live.lifechurch.tv/api/v1/events/current",
+    url: "https://jaygreentree.xyz/api/data.json",
     dataType: "json",
     success: function(data) {
       var date, dateString, seconds_till;
