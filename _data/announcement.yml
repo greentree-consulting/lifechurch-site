@@ -4,8 +4,8 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: false
-  type: notice
-  icon: calendar
-  message: View additional Easter service times.
-  url: /easter/
+- active: true
+  type: alert
+  icon: maintenance
+  message: This is a demonstration and is not an official life.church site.
+  url: 
